@@ -1,0 +1,100 @@
+[
+  {
+    "id": 1,
+    "year": 2019,
+    "investigador": "SOTELO ALCANTARA BERTHA CAROLINA",
+    "titulo": "Potential risk of Pb to children's health from consumption of cow’s milk in areas irrigated with river water contaminated by mining activity.",
+    "url": "https://revistas.unitru.edu.pe/index.php/scientiaagrop"
+  },
+  {
+    "id": 2,
+    "year": 2019,
+    "investigador": "GRIJALVA ARONI PERCY LUIS",
+    "titulo": "Determination of toxic metals in commonly consumed medicinal plants largely used in Peru by ICP-MS and their impact on human health.",
+    "url": "https://www.sciencedirect.com/science/article/pii/S2405830021000653"
+  },
+  {
+    "id": 3,
+    "year": 2019,
+    "investigador": "AYLAS MONTALVO ANTONIO",
+    "titulo": "Anatomy and physical properties of the wood of two species from the department of Puno.",
+    "url": "http://doi.org/10.22497/arnaldoa.262.26205"
+  },
+  {
+    "id": 4,
+    "year": 2020,
+    "investigador": "LOPEZ CARDENAS RAUL",
+    "titulo": "Efectos del cambio climático en la distribución de especies forestales altoandinas en la región Junín.",
+    "url": "https://revistas.uncp.edu.pe/index.php/xilema/article/view/1024"
+  },
+  {
+    "id": 5,
+    "year": 2020,
+    "investigador": "CONDOR ALVAREZ MARIA ELENA",
+    "titulo": "Evaluación de la biomasa aérea y carbono almacenado en bosques secundarios de la selva central del Perú.",
+    "url": "https://revistas.uncp.edu.pe/index.php/xilema/article/view/1025"
+  },
+  {
+    "id": 6,
+    "year": 2021,
+    "investigador": "QUISPE QUISPE JUAN CARLOS",
+    "titulo": "Análisis dendrocronológico de Polylepis racemosa en microcuencas del Valle del Mantaro.",
+    "url": "https://revistas.uncp.edu.pe/index.php/xilema/article/view/1130"
+  },
+  {
+    "id": 7,
+    "year": 2021,
+    "investigador": "BARRERA ORELLANA HECTOR STEFANO",
+    "titulo": "Modelamiento geoespacial de la deforestación y pérdida de hábitat en la cuenca del río Perené.",
+    "url": "https://revistas.uncp.edu.pe/index.php/xilema/article/view/1131"
+  },
+  {
+    "id": 8,
+    "year": 2022,
+    "investigador": "POMA SANCHEZ LUIS ALBERTO",
+    "titulo": "Propiedades físico-mecánicas de tableros de partículas fabricados con residuos de podas urbanas.",
+    "url": "https://revistas.uncp.edu.pe/index.php/xilema/article/view/1245"
+  },
+  {
+    "id": 9,
+    "year": 2022,
+    "investigador": "TAIPE MEZA REGINA GIOVANA",
+    "titulo": "Calidad del agua y macroinvertebrados bentónicos como bioindicadores en la subcuenca del río Shullcas.",
+    "url": "https://revistas.uncp.edu.pe/index.php/xilema/article/view/1246"
+  },
+  {
+    "id": 10,
+    "year": 2023,
+    "investigador": "SANTIAGO ESTEBAN MANUEL GERMAN",
+    "titulo": "Dinámica de la regeneración natural en claros de bosque húmedo montano bajo la influencia silvicultural.",
+    "url": "https://revistas.uncp.edu.pe/index.php/xilema/article/view/1350"
+  },
+  {
+    "id": 11,
+    "year": 2023,
+    "investigador": "ZUNIGA VILLAFUERTE ROCIO PILAR",
+    "titulo": "Sistemas agroforestales con café: una alternativa sostenible frente a la degradación de suelos en Chanchamayo.",
+    "url": "https://revistas.uncp.edu.pe/index.php/xilema/article/view/1351"
+  },
+  {
+    "id": 12,
+    "year": 2024,
+    "investigador": "GUTIERREZ CHAVEZ CARLOS EDUARDO",
+    "titulo": "Monitoreo satelital con Sentinel-2 para la detección de alerta temprana de incendios forestales en Junín.",
+    "url": "https://revistas.uncp.edu.pe/index.php/xilema/article/view/1462"
+  },
+  {
+    "id": 13,
+    "year": 2025,
+    "investigador": "MEDRANO PALOMINO ANA PATRICIA",
+    "titulo": "Evaluación multicriterio de la vulnerabilidad hidroclimática en comunidades nativas de la selva central.",
+    "url": "https://revistas.uncp.edu.pe/index.php/xilema/article/view/1570"
+  },
+  {
+    "id": 14,
+    "year": 2026,
+    "investigador": "FLORES PALACIOS JORGE ANIBAL",
+    "titulo": "Integración de inteligencia artificial en la clasificación taxonómica de maderas comerciales del Perú.",
+    "url": "https://revistas.uncp.edu.pe/index.php/xilema/article/view/1680"
+  }
+]

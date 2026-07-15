@@ -1,0 +1,35 @@
+[
+  {
+    "id": 1,
+    "titulo": "ANÁLISIS INTEGRAL DEL RIESGO A DESLIZAMIENTOS E INUNDACIONES EN LA MICROCUENCA YANANGO.",
+    "autores": "Instituto Especializado de Investigación - FCFA",
+    "year": 2022,
+    "editorial": "Fondo Editorial FCFA - UNCP",
+    "paginas": 184,
+    "isbn": "978-612-48412-4-8",
+    "portada": "/src/assets/images/portada_yanango_riesgos_1782251634548.jpg",
+    "url": "https://forestales.uncp.edu.pe/pdf/libros/analisis_integral_riesgo_yanango.pdf"
+  },
+  {
+    "id": 2,
+    "titulo": "RELACIÓN PRECIPITACIÓN,INFILTRACION Y ESCORRENTIA PARA LA ÉPOCA DE LLUVIA EN LA MICROCUENCA YANANGO.",
+    "autores": "Instituto Especializado de Investigación - FCFA",
+    "year": 2023,
+    "editorial": "Fondo Editorial FCFA - UNCP",
+    "paginas": 156,
+    "isbn": "978-612-48412-5-5",
+    "portada": "/src/assets/images/portada_yanango_lluvia_1782251647342.jpg",
+    "url": "https://forestales.uncp.edu.pe/pdf/libros/relacion_precipitacion_infiltracion_escorrentia.pdf"
+  },
+  {
+    "id": 3,
+    "titulo": "AREA DE CONSERVACIÓN REGIONAL HUAYTAPALLANA BIODIVERSIDAD, PAISAJES Y RITOS",
+    "autores": "Vargas Maldonado S., Aguilar Caceres M., Rodriguez Cerron A.",
+    "year": 2021,
+    "editorial": "Fondo Editorial FCFA - UNCP",
+    "paginas": 210,
+    "isbn": "978-612-48412-1-7",
+    "portada": "/src/assets/images/portada_huaytapallana_1782251660429.jpg",
+    "url": "https://forestales.uncp.edu.pe/pdf/libros/area_conservacion_huaytapallana.pdf"
+  }
+]

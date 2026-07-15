@@ -1,0 +1,56 @@
+{
+  "titulo": "Grupos de Interés y Comité Consultivo",
+  "descripcionGeneral": "La Facultad de Ciencias Forestales y del Ambiente de la UNCP ha implementado y lleva a cabo mecanismos que implican la participación de grupos de interés, con el fin de asegurar la pertinencia de su oferta académica en relación a la demanda social. La \"demanda social\" comprende los requisitos explícitos y las necesidades implícitas asociadas al ejercicio profesional, que incluyen formas de intervención, áreas de aplicación, resolución de problemas y el establecimiento de relaciones con otras disciplinas profesionales (SINEACE, 2017).",
+  "detalleEstablecimiento": "En este sentido, la FCFA ha identificado a sus grupos de interés y ha buscado recabar sus opiniones como uno de los elementos para evaluar la pertinencia de su oferta académica. Como resultado, se han llevado a cabo reuniones entre septiembre y octubre de 2022, en las cuales se ha establecido el Comité Consultivo conformado por cinco sectores que se relacionan estrechamente con las actividades laborales vinculadas a la FCFA: el sector público y privado forestal, el sector público y privado ambiental, y un representante de la asociación civil.",
+  "comiteConsultivo": [
+    {
+      "cargo": "Presidente",
+      "nombre": "Ing. Bryan Fredy Yarupaita Echevarría",
+      "institucion": "Asociación de Egresados de la FCFA"
+    },
+    {
+      "cargo": "Vicepresidente",
+      "nombre": "Ing. Víctor Villa Mariño",
+      "institucion": "SERFOR-ATFFS Sierra Central"
+    },
+    {
+      "cargo": "Secretario",
+      "nombre": "Bach. Jorge Isaac Prieto Coz",
+      "institucion": "Comunidad Campesina de Smelter"
+    },
+    {
+      "cargo": "Vocal",
+      "nombre": "Ing. Alberto Osorio Valencia",
+      "institucion": "Autoridad Administrativa del Agua Mantaro"
+    },
+    {
+      "cargo": "Vocal",
+      "nombre": "Ing. Yuri Nieto Orellana",
+      "institucion": "Asociación de Madereros de Junín"
+    }
+  ],
+  "sectores": [
+    {
+      "nombre": "Sector Público Forestal",
+      "funcion": "Monitoreo regulatorio, legislación de recursos maderables y fomento de políticas de conservación estatal."
+    },
+    {
+      "nombre": "Sector Privado Forestal",
+      "funcion": "Empresas transformadoras, madereras y de servicios silvícolas orientados al mercado nacional y de exportación."
+    },
+    {
+      "nombre": "Sector Público Ambiental",
+      "funcion": "Instituciones reguladoras del agua, áreas naturales protegidas y fiscalización ambiental."
+    },
+    {
+      "nombre": "Sector Privado Ambiental",
+      "funcion": "Consultoras ambientales, empresas de mitigación de impactos y desarrollo sostenible corporativo."
+    },
+    {
+      "nombre": "Asociación Civil",
+      "funcion": "Representación de comunidades nativas, campesinas y organizaciones no gubernamentales (ONGs)."
+    }
+  ],
+  "pdfUrl": "https://www.w3.org/WAI/ER/tests/xhtml/testfiles/resources/pdf/dummy.pdf",
+  "pdfTitulo": "Acta de Conformación del Comité Consultivo de la FCFA - UNCP"
+}

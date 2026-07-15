@@ -1,0 +1,79 @@
+[
+  {
+    "id": 1,
+    "cargo": "Decano",
+    "responsable": "Dr. Julio César Álvarez Orellana",
+    "correo": "jalvarez@uncp.edu.pe",
+    "foto": "/src/assets/images/foto_alvarez_orellana_1782251891744.jpg"
+  },
+  {
+    "id": 2,
+    "cargo": "Director de la Escuela Académico Profesional",
+    "responsable": "Dr. Juan José Bullon Rosas",
+    "correo": "jbullon@uncp.edu.pe",
+    "foto": ""
+  },
+  {
+    "id": 3,
+    "cargo": "Director del Departamento Académico",
+    "responsable": "Dr. Edwin Zorrilla Delgado",
+    "correo": "ezorrilla@uncp.edu.pe",
+    "foto": ""
+  },
+  {
+    "id": 4,
+    "cargo": "Director del Instituto Especializado de Investigación",
+    "responsable": "Dr. Mauro Rodríguez Cerrón",
+    "correo": "mauro1rodriguez@uncp.edu.pe",
+    "foto": ""
+  },
+  {
+    "id": 5,
+    "cargo": "Director del Instituto Especializado de Investigación – FCFA",
+    "responsable": "Dr. Ronald Hector Revolo Acevedo",
+    "correo": "rrevolo@uncp.edu.pe",
+    "foto": ""
+  },
+  {
+    "id": 6,
+    "cargo": "Coordinadora de Tutoría y Seguimiento Académico y Bienestar Social",
+    "responsable": "Dra. Rosa Haydee Zárate Quiñones",
+    "correo": "rzarate@uncp.edu.pe",
+    "foto": ""
+  },
+  {
+    "id": 7,
+    "cargo": "Coordinadora de Extensión Cultural, Proyección Social y Transferencia Tecnológica",
+    "responsable": "M.Sc. Juana Paucar Carrión",
+    "correo": "jpaucar@uncp.edu.pe",
+    "foto": ""
+  },
+  {
+    "id": 8,
+    "cargo": "Coordinador de Gestión de Calidad – FCFA",
+    "responsable": "Dr. Cirilo Huamán Huamán",
+    "correo": "whuaman@uncp.edu.pe",
+    "foto": "/src/assets/images/foto_huaman_huaman_1782251916078.jpg"
+  },
+  {
+    "id": 9,
+    "cargo": "Responsable de la Comisión Permanente de Infraestructura, Sistemas y Tecnología de Información",
+    "responsable": "M.Sc. Wilfredo Ramírez Salas",
+    "correo": "wramirez@uncp.edu.pe",
+    "foto": ""
+  },
+  {
+    "id": 10,
+    "cargo": "Responsable de la Comisión Permanente de Planificación, Economía y Evaluación",
+    "responsable": "Ing. Lilly Nelly Gozar Córdova",
+    "correo": "lgozar@uncp.edu.pe",
+    "foto": ""
+  },
+  {
+    "id": 11,
+    "cargo": "Coordinar de Prácticas Preprofesionales",
+    "responsable": "Ing. Antonio Saturnino Aylas Montalvo",
+    "correo": "aaylas@uncp.edu.pe",
+    "foto": ""
+  }
+]

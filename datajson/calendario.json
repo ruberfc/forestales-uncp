@@ -1,0 +1,32 @@
+{
+  "titulo": "Calendario Académico 2026 - II",
+  "resolucion": "Aprobado con RESOLUCIÓN N° 412-2026-CU-UNCP",
+  "actualizado": "Julio 2026",
+  "pdfUrl": "https://www.w3.org/WAI/ER/tests/xhtml/testfiles/resources/pdf/dummy.pdf",
+  "eventos": [
+    {
+      "fase": "Planificación y Matrículas",
+      "actividades": [
+        { "nombre": "Presentación de Carga Académica", "fecha": "Del 03 al 07 de agosto de 2026" },
+        { "nombre": "Matrícula Regular (Vía Web)", "fecha": "Del 10 al 21 de agosto de 2026" },
+        { "nombre": "Matrícula Extemporánea y Rectificaciones", "fecha": "Del 24 al 28 de agosto de 2026" }
+      ]
+    },
+    {
+      "fase": "Desarrollo Académico",
+      "actividades": [
+        { "nombre": "Inicio del Semestre Académico", "fecha": "31 de agosto de 2026" },
+        { "nombre": "Primera Evaluación Parcial", "fecha": "Del 19 al 23 de octubre de 2026" },
+        { "nombre": "Segunda Evaluación Parcial", "fecha": "Del 14 al 18 de diciembre de 2026" },
+        { "nombre": "Fin de Clases del Semestre", "fecha": "24 de diciembre de 2026" }
+      ]
+    },
+    {
+      "fase": "Procesos Finales",
+      "actividades": [
+        { "nombre": "Exámenes de Aplazados y Rezagados", "fecha": "Del 28 de diciembre de 2026 al 01 de enero de 2027" },
+        { "nombre": "Ingreso y Cierre de Actas de Notas", "fecha": "Hasta el 08 de enero de 2027" }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,63 @@
+{
+  "titulo": "Doctorado en Ciencias Ambientales y Desarrollo Sostenible",
+  "perfilEgresado": "El egresado del doctorado del Programa de estudios de Ciencias Ambientales y Desarrollo Sostenible, tendrá una formación en el conocimiento científico y tecnológico de la Ciencia del Desarrollo Sostenible y de las Ciencias Ambientales, con sólidas bases teóricas, prácticas y metodológicas, que le permitirá realizar investigaciones identificando, analizando y sintetizando problemas y soluciones de desarrollo sostenible en todos los sectores.",
+  "gradoAcademico": "Doctor en Ciencias Ambientales y Desarrollo Sostenible",
+  "duracion": "03 Años (6 semestres académicos)",
+  "inversion": "Matrícula por Semestre S/150.00",
+  "pensionMensual": "S/500.00 (4 cuotas x semestre)",
+  "totalCreditos": 64,
+  "disenoCurricular": "Diseño Curricular 2023",
+  "planEstudios": [
+    {
+      "semestre": "Semestre I",
+      "cursos": [
+        "Filosofía de la naturaleza",
+        "Teoría del Desarrollo Sostenible",
+        "Ecosistemas y Biodiversidad",
+        "Economía Verde"
+      ]
+    },
+    {
+      "semestre": "Semestre II",
+      "cursos": [
+        "Gestión de Riesgos de Desastres",
+        "Educación para el Desarrollo Sostenible",
+        "Sistemas de Gestión Ambiental",
+        "Investigación y Desarrollo Sostenible"
+      ]
+    },
+    {
+      "semestre": "Semestre III",
+      "cursos": [
+        "Política y Derecho Ambiental",
+        "Cambio Climático y Desarrollo Sostenible",
+        "Auditoría Ambiental Gubernamental",
+        "Responsabilidad Social Corporativa"
+      ]
+    },
+    {
+      "semestre": "Semestre IV",
+      "cursos": [
+        "Gestión Sostenible del Agua",
+        "Gestión Sostenible de Residuos Sólidos y Líquidos",
+        "Evaluación de los Ecosistemas del Milenio",
+        "Tesis Doctoral I"
+      ]
+    },
+    {
+      "semestre": "Semestre V",
+      "cursos": [
+        "Desarrollo Humano Sostenible",
+        "Estadística Inferencial",
+        "Tesis Doctoral II"
+      ]
+    },
+    {
+      "semestre": "Semestre VI",
+      "cursos": [
+        "Tesis Doctoral II",
+        "Redacción del Artículo Científico"
+      ]
+    }
+  ]
+}

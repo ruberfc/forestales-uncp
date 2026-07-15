@@ -1,0 +1,28 @@
+{
+  "titulo": "Diplomados de Especialización de Posgrado",
+  "subtitulo": "Programas cortos de actualización profesional continua para el sector forestal y ambiental.",
+  "estado": {
+    "enActualizacion": true,
+    "mensaje": "Los programas de Diplomado y Especialización de la Unidad de Posgrado FCFA se encuentran actualmente en proceso de actualización curricular y reestructuración administrativa para el periodo académico 2026.",
+    "proximaPublicacion": "Convocatoria proyectada para el segundo semestre de 2026.",
+    "detalle": "Buscando cumplir con los más altos estándares de calidad educativa y adecuación al SINEACE, estamos rediseñando nuestra oferta de educación continua para incorporar temas clave de cambio climático, bioeconomía forestal y teledetección de alta precisión."
+  },
+  "areasInteres": [
+    {
+      "nombre": "Sistemas de Información Geográfica (SIG) y Teledetección",
+      "descripcion": "Aplicación de tecnologías geoespaciales avanzadas, imágenes satelitales y drones para el monitoreo de la cobertura boscosa y análisis territorial."
+    },
+    {
+      "nombre": "Valoración de Servicios Ecosistémicos",
+      "descripcion": "Metodologías económicas y ecológicas para valorar servicios ambientales (agua, carbono, biodiversidad) y el diseño de mecanismos de retribución (MERESE)."
+    },
+    {
+      "nombre": "Gestión de Riesgos y Evaluación de Impacto Ambiental",
+      "descripcion": "Estudios e instrumentos de gestión ambiental aplicados al sector forestal, minero e industrial, con énfasis en mitigación y adaptación al cambio climático."
+    },
+    {
+      "nombre": "Silvicultura de Precisión y Restauración Forestal",
+      "descripcion": "Técnicas avanzadas para el establecimiento de plantaciones, manejo de viveros automatizados y recuperación de ecosistemas andinos y amazónicos degradados."
+    }
+  ]
+}

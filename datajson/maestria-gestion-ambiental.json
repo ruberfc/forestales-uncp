@@ -1,0 +1,48 @@
+{
+  "titulo": "Maestría en Gestión Ambiental y Desarrollo Sostenible",
+  "perfilEgresado": "El Maestro en Gestión Ambiental y Desarrollo Sostenible, tendrá una formación en el conocimiento científico y tecnológico de la Ciencia del Desarrollo Sostenible y de las Ciencias Ambientales, con sólidas bases teóricas, prácticas y metodológicas, que le permitirá realizar investigaciones identificando, analizando y sintetizando problemas y soluciones de desarrollo sostenible en todos los sectores.",
+  "gradoAcademico": "Maestro en Gestión Ambiental y Desarrollo Sostenible",
+  "duracion": "2 años (4 semestres académicos)",
+  "inversion": "Matrícula por Semestre S/100.00",
+  "pensionMensual": "S/300.00 (4 cuotas x semestre)",
+  "totalCreditos": 48,
+  "disenoCurricular": "Diseño Curricular 2023",
+  "planEstudios": [
+    {
+      "semestre": "Semestre I",
+      "cursos": [
+        "Ecosistemas y Biodiversidad",
+        "Desarrollo Sostenible",
+        "Economía Ecológica",
+        "Política y Derecho Ambiental"
+      ]
+    },
+    {
+      "semestre": "Semestre II",
+      "cursos": [
+        "Educación para el Desarrollo Sostenible",
+        "Evaluación de Impactos Ambientales",
+        "Ordenamiento Territorial",
+        "Tesis I"
+      ]
+    },
+    {
+      "semestre": "Semestre III",
+      "cursos": [
+        "Gestión de Proyectos de Desarrollo Sostenible",
+        "Gestión Sostenible de Residuos Sólidos",
+        "Gestión de Riesgos de Desastres",
+        "Tesis II"
+      ]
+    },
+    {
+      "semestre": "Semestre IV",
+      "cursos": [
+        "Auditoría Ambiental Gubernamental",
+        "Estadística Inferencial",
+        "Redacción de Artículos Científicos",
+        "Tesis III"
+      ]
+    }
+  ]
+}

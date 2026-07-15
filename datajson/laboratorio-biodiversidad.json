@@ -1,0 +1,144 @@
+{
+  "laboratorio": {
+    "nombre": "Laboratorio de Biodiversidad y Manejo Forestal",
+    "siglas": "LBMF - FCFA",
+    "jefe": "Dr. Walter Francisco Gómez Lora",
+    "jefeCargo": "Jefe del Laboratorio de Biodiversidad y Manejo Forestal",
+    "jefeEmail": "wgomez@uncp.edu.pe",
+    "mision": "Generar conocimiento científico de alto impacto sobre la diversidad florística, estructura, dinámica y conservación de los ecosistemas forestales andino-amazónicos, capacitando a estudiantes, tesistas y profesionales bajo rigurosos estándares metodológicos y tecnológicos.",
+    "vision": "Ser el laboratorio líder en investigación ecológica y manejo de recursos forestales del centro del país, reconocido a nivel nacional e internacional por sus contribuciones a la conservación de la biodiversidad y el desarrollo de estrategias de mitigación frente al cambio climático.",
+    "descripcion": "El Laboratorio de Investigación de Biodiversidad y Manejo Forestal, tiene como finalidad contribuir la ejecución de investigación científica en las líneas de investigación de la Carrera Profesional de Ciencias Forestales y Ambiental; para lo cual cuenta con equipamiento científico de última generación que permite estudios avanzados en ecología, taxonomía, y conservación ambiental."
+  },
+  "lineasInvestigacion": [
+    {
+      "titulo": "Ecología y Dinámica de Bosques",
+      "descripcion": "Estudio de las parcelas permanentes de muestreo (PPM), tasas de mortalidad, reclutamiento y crecimiento de especies forestales nativas en gradientes altitudinales."
+    },
+    {
+      "titulo": "Taxonomía y Florística",
+      "descripcion": "Identificación de la flora dendrológica andino-amazónica, recolección y herborización de muestras para enriquecer las bases de datos de biodiversidad."
+    },
+    {
+      "titulo": "Restauración Ecológica",
+      "descripcion": "Recuperación de ecosistemas forestales degradados mediante el diseño de plantaciones mixtas, silvicultura de especies nativas y remediación de suelos forestales."
+    },
+    {
+      "titulo": "Servicios Ecosistémicos y Carbono",
+      "descripcion": "Evaluación del almacenamiento de biomasa y secuestro de carbono en bosques naturales y plantaciones para el modelamiento predictivo ante el cambio climático."
+    }
+  ],
+  "equipamiento": [
+    {
+      "nombre": "Microscopio Electrónico de Barrido SU3800 STEM Hitachi",
+      "marca": "Hitachi",
+      "imagen": "https://images.unsplash.com/photo-1576086213369-97a306dca665?auto=format&fit=crop&q=80&w=600",
+      "aplicaciones": [
+        "Análisis morfológico y estructural de tejido vegetal, animal y humano.",
+        "Análisis de artrópodos y microorganismos.",
+        "Macro y micropaleontología.",
+        "Análisis elemental con EDS – Rayos de muestra biológica y no biológica.",
+        "Análisis de superficie, composicional, 3D y topográfico con BSE.",
+        "Análisis de muestras petrográficas y mineralógico.",
+        "Análisis de nanopartículas.",
+        "Observación de muestras biológicas en modo barrido transmisión (STEM)."
+      ]
+    },
+    {
+      "nombre": "Recubridor de Alto Vacío Leica ACE600",
+      "marca": "Leica",
+      "imagen": "https://images.unsplash.com/photo-1581091226825-a6a2a5aee158?auto=format&fit=crop&q=80&w=600",
+      "aplicaciones": [
+        "Recubrimiento con carbón y metal por pulverización catódica en alto vacío para observar muestras en microscopio electrónico.",
+        "Metales de recubrimiento admitidos: Au (Oro), Pt (Platino), Pt/Pd (Platino/Paladio)."
+      ]
+    },
+    {
+      "nombre": "Secador de Punto Crítico Leica CPD300",
+      "marca": "Leica",
+      "imagen": "https://images.unsplash.com/photo-1582719508461-905c673771fd?auto=format&fit=crop&q=80&w=600",
+      "aplicaciones": [
+        "Secado en punto crítico de muestras biológicas delicadas para su posterior observación óptima en microscopio electrónico de barrido."
+      ]
+    },
+    {
+      "nombre": "Ultra Micrótomo Enuity Leica",
+      "marca": "Leica",
+      "imagen": "https://images.unsplash.com/photo-1579154204601-01588f351167?auto=format&fit=crop&q=80&w=600",
+      "aplicaciones": [
+        "Procedimientos de ultramicrotomía de alta precisión.",
+        "Preparación de muestras biológicas con corte ultrafino de 1 nm hasta 30 nm, ideales para observar muestras en modo de barrido transmisión (STEM) en microscopio electrónico."
+      ]
+    },
+    {
+      "nombre": "Cortador de Vidrio Leica KMR3",
+      "marca": "Leica",
+      "imagen": "https://images.unsplash.com/photo-1617791160536-598cf32026fb?auto=format&fit=crop&q=80&w=600",
+      "aplicaciones": [
+        "Preparado y fabricación de cuchillas de vidrio de alta precisión específicas para procesos de ultramicrotomía."
+      ]
+    },
+    {
+      "nombre": "Microscopio de Contraste de Fase y Campo Claro Leica DM750",
+      "marca": "Leica",
+      "imagen": "https://images.unsplash.com/photo-1518152006812-edab29b069ac?auto=format&fit=crop&q=80&w=600",
+      "aplicaciones": [
+        "Observación tridimensional y plana de muestras transparentes como células vivas, microorganismos y cortes finos de tejido sin necesidad de tinción.",
+        "Estudio detallado de procesos biológicos en su estado natural y celular.",
+        "Uso crítico en biología, medicina, botánica y desarrollo farmacéutico para el análisis celular sin alteraciones químicas."
+      ]
+    },
+    {
+      "nombre": "Estereomicroscopio Leica S9i 56x con Software LAS X",
+      "marca": "Leica",
+      "imagen": "https://images.unsplash.com/photo-1532187863486-abf9d39d66e8?auto=format&fit=crop&q=80&w=600",
+      "aplicaciones": [
+        "Observación tridimensional (microscopio de disección) de especímenes botánicos y forestales demasiado pequeños a simple vista.",
+        "Manipulación y visualización precisa de muestras biológicas, insectos, semillas y tejidos leñosos.",
+        "Adquisición, procesamiento y análisis digital de imágenes científicas mediante el potente software LAS X.",
+        "Cálculos volumétricos, medición de distancias en microestructuras, análisis de fase y generación de mosaicos fotográficos de alta resolución."
+      ]
+    },
+    {
+      "nombre": "Estereomicroscopio Leica S9i 110x",
+      "marca": "Leica",
+      "imagen": "https://images.unsplash.com/photo-1501196354995-cbb51c65aaea?auto=format&fit=crop&q=80&w=600",
+      "aplicaciones": [
+        "Observación estereoscópica tridimensional con magnificación ampliada hasta 110x.",
+        "Análisis morfológico de insectos (entomología forestal), fitopatógenos, estructuras minerales, semillas forestales y tejidos vegetales complejos."
+      ]
+    }
+  ],
+  "servicios": [
+    {
+      "servicio": "Identificación botánica y taxonómica de muestras de flora forestal silvestre.",
+      "destinatario": "Consultoras ambientales, investigadores, tesistas, comunidades locales y entidades públicas."
+    },
+    {
+      "servicio": "Diseño, instalación y monitoreo de Parcelas Permanentes de Monitoreo (PPM).",
+      "destinatario": "Empresas del sector forestal, ONGs de conservación y gobiernos regionales."
+    },
+    {
+      "servicio": "Asesoría metodológica especializada en inventarios forestales de biodiversidad.",
+      "destinatario": "Estudiantes de pregrado, posgrado y profesionales de ciencias ambientales."
+    },
+    {
+      "servicio": "Ensayos de germinación y viabilidad de semillas de especies forestales nativas.",
+      "destinatario": "Viveros forestales, municipalidades y proyectos de reforestación regional."
+    }
+  ],
+  "pdfUrl": "https://www.w3.org/WAI/ER/tests/xhtml/testfiles/resources/pdf/dummy.pdf",
+  "pdfTitulo": "Guia-de-Investigacion-ECOLOGIA-Y-BIODIVERSIDAD-LBMF.pdf",
+  "codigoNormativo": "LAB-LBMF-FCFA-2026",
+  "proyectosVigentes": [
+    {
+      "titulo": "Evaluación de la dinámica de acumulación de carbono en bosques nublados de la Selva Central del Perú.",
+      "financiamiento": "FONDECYT / CONCYTEC",
+      "periodo": "2025 - 2026"
+    },
+    {
+      "titulo": "Restauración ecológica de bosques nativos degradados de Polylepis (Quinual) en cabeceras de cuenca altoandinas de Junín.",
+      "financiamiento": "Canon Minero UNCP",
+      "periodo": "2024 - 2026"
+    }
+  ]
+}

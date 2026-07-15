@@ -1,0 +1,61 @@
+{
+  "titulo": "Acreditación de la Carrera Profesional de Ciencias Forestales y del Ambiente",
+  "resolucion": "Resolución de Presidencia del Consejo Directivo Ad Hoc N° 235-2016-SINEACE/CDAH",
+  "fechaAcreditacion": "22 de diciembre de 2016",
+  "periodo": "3 años",
+  "historico": {
+    "titulo": "Reconocimiento a la Calidad Educativa",
+    "parrafo": "El 22 de diciembre de 2016, a través de la Resolución de Presidencia del Consejo Directivo Ad Hoc N° 235-2016-SINEACE/CDAH, se concedió la acreditación a la carrera profesional de Ciencias Forestales y del Ambiente por un período de 3 años. Esta acreditación, de acuerdo con el artículo 11° de la Ley N° 28740, Ley SINEACE, es un reconocimiento público y temporal otorgado por haber participado voluntariamente en un proceso de evaluación de la gestión pedagógica, institucional y administrativa, con el objetivo de mejorar los factores que influyen en el proceso de aprendizaje y en el desarrollo de las habilidades y competencias necesarias para alcanzar los más altos niveles de calificación profesional y progreso laboral."
+  },
+  "actualidad": {
+    "titulo": "Proceso de Autoevaluación y Adaptación Continua",
+    "parrafo": "Actualmente (junio de 2023), la Facultad de Ciencias Forestales y del Ambiente se está adaptando al nuevo sistema de evaluación del SINEACE, que requiere cumplir con 34 estándares para obtener nuevamente el proceso de acreditación. Con este fin, se están llevando a cabo diversas actividades, como la evaluación y diseño curricular, el seguimiento de los egresados y reuniones con los grupos de interés. En general, estamos trabajando para cerrar las brechas identificadas entre los 34 estándares a través del proceso de autoevaluación."
+  },
+  "indicadores": [
+    {
+      "metrica": "34",
+      "etiqueta": "Estándares SINEACE",
+      "descripcion": "Requeridos por el nuevo modelo de acreditación nacional."
+    },
+    {
+      "metrica": "03 Años",
+      "etiqueta": "Período Inicial",
+      "descripcion": "De acreditación obtenida mediante la Res. N° 235-2016."
+    },
+    {
+      "metrica": "100%",
+      "etiqueta": "Compromiso de Autoevaluación",
+      "descripcion": "Para el cierre de brechas curriculares e institucionales."
+    }
+  ],
+  "actividadesAcreditacion": [
+    {
+      "actividad": "Evaluación y Diseño Curricular",
+      "descripcion": "Actualización continua de planes de estudio adaptados a las exigencias globales y del sector."
+    },
+    {
+      "actividad": "Seguimiento de Egresados",
+      "descripcion": "Monitoreo del desempeño profesional, empleabilidad y retroalimentación de graduados."
+    },
+    {
+      "actividad": "Reuniones con Grupos de Interés",
+      "descripcion": "Mesas de trabajo con empleadores, egresados y entes reguladores para validar competencias."
+    },
+    {
+      "actividad": "Cierre de Brechas Estándar",
+      "descripcion": "Proceso riguroso de autoevaluación institucional en las dimensiones de SINEACE."
+    }
+  ],
+  "pdfUrl": "https://www.w3.org/WAI/ER/tests/xhtml/testfiles/resources/pdf/dummy.pdf",
+  "pdfTitulo": "Resolución de Presidencia N° 235-2016-SINEACE/CDAH - Acreditación de Carrera",
+  "galeria": [
+    {
+      "url": "https://images.unsplash.com/photo-1517245386807-bb43f82c33c4?auto=format&fit=crop&q=80&w=1200",
+      "caption": "Reunión de Autoevaluación de la Comisión de Calidad de la Facultad"
+    },
+    {
+      "url": "https://images.unsplash.com/photo-1540317580384-e5d43616b9aa?auto=format&fit=crop&q=80&w=1200",
+      "caption": "Trabajo colaborativo para el cierre de brechas de los 34 estándares SINEACE"
+    }
+  ]
+}

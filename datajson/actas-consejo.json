@@ -1,0 +1,82 @@
+[
+  {
+    "id": 1,
+    "year": 2023,
+    "numero": 1,
+    "nombre": "2023-06-06",
+    "tipo": "ordinaria",
+    "url": "https://forestales.uncp.edu.pe/pdf/actas/acta_2023_06_06.pdf"
+  },
+  {
+    "id": 2,
+    "year": 2023,
+    "numero": 2,
+    "nombre": "2023-06-05",
+    "tipo": "ordinaria",
+    "url": "https://forestales.uncp.edu.pe/pdf/actas/acta_2023_06_05.pdf"
+  },
+  {
+    "id": 3,
+    "year": 2023,
+    "numero": 3,
+    "nombre": "2023-05-29",
+    "tipo": "ordinaria",
+    "url": "https://forestales.uncp.edu.pe/pdf/actas/acta_2023_05_29.pdf"
+  },
+  {
+    "id": 4,
+    "year": 2023,
+    "numero": 4,
+    "nombre": "2023-05-11",
+    "tipo": "ordinaria",
+    "url": "https://forestales.uncp.edu.pe/pdf/actas/acta_2023_05_11.pdf"
+  },
+  {
+    "id": 5,
+    "year": 2023,
+    "numero": 5,
+    "nombre": "2023-05-10",
+    "tipo": "ordinaria",
+    "url": "https://forestales.uncp.edu.pe/pdf/actas/acta_2023_05_10.pdf"
+  },
+  {
+    "id": 6,
+    "year": 2023,
+    "numero": 6,
+    "nombre": "2023-04-19",
+    "tipo": "ordinaria",
+    "url": "https://forestales.uncp.edu.pe/pdf/actas/acta_2023_04_19.pdf"
+  },
+  {
+    "id": 7,
+    "year": 2023,
+    "numero": 7,
+    "nombre": "2023-02-01",
+    "tipo": "ordinaria",
+    "url": "https://forestales.uncp.edu.pe/pdf/actas/acta_2023_02_01.pdf"
+  },
+  {
+    "id": 8,
+    "year": 2023,
+    "numero": 8,
+    "nombre": "2023-01-19",
+    "tipo": "ordinaria",
+    "url": "https://forestales.uncp.edu.pe/pdf/actas/acta_2023_01_19.pdf"
+  },
+  {
+    "id": 9,
+    "year": 2023,
+    "numero": 9,
+    "nombre": "2023-01-09",
+    "tipo": "ordinaria",
+    "url": "https://forestales.uncp.edu.pe/pdf/actas/acta_2023_01_09.pdf"
+  },
+  {
+    "id": 10,
+    "year": 2022,
+    "numero": 1,
+    "nombre": "2022-06-17",
+    "tipo": "extraordinaria",
+    "url": "https://forestales.uncp.edu.pe/pdf/actas/acta_2022_06_17.pdf"
+  }
+]

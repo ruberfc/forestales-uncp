@@ -1,0 +1,62 @@
+{
+  "titulo": "Gestión de Riesgos y Oportunidades",
+  "codigo": "MR-SGC-FCFA-02",
+  "version": "V.2.1",
+  "fechaAprobacion": "Junio 2024",
+  "introduccion": "La Gestión de Riesgos y Oportunidades en la Facultad de Ciencias Forestales y del Ambiente (FCFA) constituye un pilar estratégico y preventivo del Sistema de Gestión de la Calidad (SGC). A través de este proceso dinámico, identificamos, evaluamos y respondemos proactivamente a las amenazas y potencialidades que influyen en nuestras metas académicas, de investigación, proyección social y administración, alineándonos directamente con los estándares de acreditación nacional del SINEACE.",
+  "riesgos": [
+    {
+      "id": "R01",
+      "categoria": "Académico",
+      "riesgo": "Desactualización curricular frente al dinamismo del sector ambiental y forestal.",
+      "impacto": "Alto",
+      "mitigacion": "Realizar actualizaciones curriculares trienales con la participación directa del Comité Consultivo de la FCFA y el análisis de la demanda laboral."
+    },
+    {
+      "id": "R02",
+      "categoria": "Tecnológico",
+      "riesgo": "Obsolescencia de equipos especializados de laboratorio y campo.",
+      "impacto": "Medio",
+      "mitigacion": "Formular proyectos de inversión pública periódicos y canalizar recursos provenientes del canon forestal para la modernización tecnológica."
+    },
+    {
+      "id": "R03",
+      "categoria": "Administrativo",
+      "riesgo": "Demoras en los trámites de titulación y graduación que afecten los índices de egreso.",
+      "impacto": "Alto",
+      "mitigacion": "Implementar el Sistema de Gestión Documentaria Digital y establecer un cronograma automatizado de seguimiento de expedientes de bachiller y título."
+    },
+    {
+      "id": "R04",
+      "categoria": "Investigación",
+      "riesgo": "Disminución de publicaciones científicas indizadas por limitaciones de financiamiento.",
+      "impacto": "Medio",
+      "mitigacion": "Crear fondos concursables de investigación financiados por el canon y fomentar alianzas estratégicas internacionales para co-publicaciones."
+    }
+  ],
+  "oportunidades": [
+    {
+      "id": "O01",
+      "categoria": "Alianzas",
+      "oportunidad": "Convenios con universidades internacionales de primer nivel para pasantías de doble titulación.",
+      "beneficio": "Alta Relevancia",
+      "accion": "Iniciar diálogos formales y mesas técnicas con universidades acreditadas de Europa y América del Norte."
+    },
+    {
+      "id": "O02",
+      "categoria": "Sostenibilidad",
+      "oportunidad": "Alta demanda de consultorías externas en bonos de carbono y servicios ecosistémicos.",
+      "beneficio": "Generación de Recursos",
+      "accion": "Fortalecer el Centro de Consultoría Forestal y del Ambiente para brindar servicios especializados a empresas privadas y organismos públicos."
+    },
+    {
+      "id": "O03",
+      "categoria": "Infraestructura",
+      "oportunidad": "Acceso a nuevos fondos gubernamentales para investigación aplicada ante el cambio climático.",
+      "beneficio": "Desarrollo Científico",
+      "accion": "Diseñar propuestas multidisciplinares sólidas orientadas a convocatorias de CONCYTEC y ProCiencia."
+    }
+  ],
+  "pdfUrl": "https://www.w3.org/WAI/ER/tests/xhtml/testfiles/resources/pdf/dummy.pdf",
+  "pdfTitulo": "Matriz de Gestión de Riesgos y Oportunidades - FCFA-UNCP.pdf"
+}

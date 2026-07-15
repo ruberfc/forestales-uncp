@@ -1,0 +1,44 @@
+{
+  "titulo": "Plan de Estudios de Ingeniería Forestal y del Ambiente",
+  "resolucion": "Aprobado con RESOLUCIÓN N° 036-2025-CF-FCFA-UNCP",
+  "actualizado": "Enero 2025",
+  "pdfUrl": "https://www.w3.org/WAI/ER/tests/xhtml/testfiles/resources/pdf/dummy.pdf",
+  "semestres": [
+    {
+      "ciclo": "I Semestre",
+      "totalCreditos": 21,
+      "cursos": [
+        { "nombre": "Matemática Básica", "creditos": 4, "tipo": "Obligatorio" },
+        { "nombre": "Química General", "creditos": 4, "tipo": "Obligatorio" },
+        { "nombre": "Biología General", "creditos": 4, "tipo": "Obligatorio" },
+        { "nombre": "Lenguaje y Comunicación", "creditos": 3, "tipo": "Obligatorio" },
+        { "nombre": "Introducción a la Ingeniería Forestal", "creditos": 3, "tipo": "Obligatorio" },
+        { "nombre": "Metodología del Trabajo Universitario", "creditos": 3, "tipo": "Obligatorio" }
+      ]
+    },
+    {
+      "ciclo": "II Semestre",
+      "totalCreditos": 22,
+      "cursos": [
+        { "nombre": "Cálculo Diferencial e Integral", "creditos": 4, "tipo": "Obligatorio" },
+        { "nombre": "Química Orgánica", "creditos": 4, "tipo": "Obligatorio" },
+        { "nombre": "Botánica General", "creditos": 4, "tipo": "Obligatorio" },
+        { "nombre": "Física General", "creditos": 4, "tipo": "Obligatorio" },
+        { "nombre": "Realidad Nacional y Derechos Humanos", "creditos": 3, "tipo": "Obligatorio" },
+        { "nombre": "Dibujo y Diseño Forestal", "creditos": 3, "tipo": "Obligatorio" }
+      ]
+    },
+    {
+      "ciclo": "III Semestre",
+      "totalCreditos": 20,
+      "cursos": [
+        { "nombre": "Estadística General", "creditos": 3, "tipo": "Obligatorio" },
+        { "nombre": "Bioquímica", "creditos": 3, "tipo": "Obligatorio" },
+        { "nombre": "Botánica Sistemática Forestal", "creditos": 4, "tipo": "Obligatorio" },
+        { "nombre": "Topografía General", "creditos": 4, "tipo": "Obligatorio" },
+        { "nombre": "Meteorología y Climatología", "creditos": 3, "tipo": "Obligatorio" },
+        { "nombre": "Edafología Forestal", "creditos": 3, "tipo": "Obligatorio" }
+      ]
+    }
+  ]
+}

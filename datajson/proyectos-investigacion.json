@@ -1,0 +1,332 @@
+{
+  "titulo": "Instituto Especializado de Investigación (IEI) - FCFA",
+  "siglas": "IEI-FCFA",
+  "proceso": "El Instituto Especializado de Investigación de la Facultad de Ciencias Forestales y del Ambiente de la Universidad Nacional del Centro del Perú es la unidad orgánica encargada de planificar, promover, coordinar y evaluar el desarrollo de las investigaciones científicas, tecnológicas y de innovación humanística. A través del desarrollo de proyectos, programas y actividades, fortalecemos las capacidades de nuestros docentes y estudiantes, produciendo conocimiento científico transferible que responda a los desafíos forestales y de conservación ambiental en el ámbito regional, nacional y global.",
+  "vision": "Consolidarnos como un centro de excelencia científica y tecnológica en investigación forestal y ambiental en la región andino-amazónica, produciendo publicaciones científicas indexadas de alto impacto y patentes de transferencia tecnológica que contribuyan al desarrollo sostenible.",
+  "pilares": [
+    {
+      "titulo": "Investigación Científica",
+      "descripcion": "Fomento y financiamiento de proyectos de investigación aplicada y desarrollo tecnológico en silvicultura, cambio climático y biotecnología."
+    },
+    {
+      "titulo": "Semilleros y Tesis",
+      "descripcion": "Incentivo a la participación de estudiantes en círculos de estudio, semilleros y desarrollo de tesis integradas a líneas de investigación prioritarias."
+    },
+    {
+      "titulo": "Divulgación Científica",
+      "descripcion": "Publicación de artículos en revistas indexadas internacionales (Scopus, WoS), libros especializados y organización de congresos científicos."
+    }
+  ],
+  "proyectos": {
+    "2023": [
+      {
+        "titulo": "Revisión de Literatura - Gestión de Residuos Sólidos en Latinoamérica.",
+        "investigadores": [
+          "Palomino De La Mata Luis Antonio",
+          "Sarapura Chamorro Vicky Maria Paz"
+        ]
+      },
+      {
+        "titulo": "Adaptación de especies nativas amenazadas del Valle del Mantaro en parcelas demostrativas como estrategia de mitigación al cambio climático.",
+        "investigadores": [
+          "Claros Cuadrado Jose Luis",
+          "Lujan Cardenas Wilmer Jhon",
+          "Osorio Berrocal Emilio",
+          "Zarate Quiñones Rosa Haydee"
+        ]
+      },
+      {
+        "titulo": "Factores determinantes del ecosistema de pajonales de puna húmeda en áreas del centro de producción Casa blanca-Pomacancha Jauja.",
+        "investigadores": [
+          "Lujan Cardenas Wilmer Jhon",
+          "Ramirez Salas Wilfredo"
+        ]
+      },
+      {
+        "titulo": "Prevalencia de los transtornos musculoesqueléticos laborales por el teletrabajo durante la pandemia del covid-19 personal docente- administrativo de la Uncp.",
+        "investigadores": [
+          "Baltazar Castañeda Hernan",
+          "Baltazar Sedano Neddy Milka"
+        ]
+      },
+      {
+        "titulo": "Contaminación por metales pesados en plantas medicinales y riesgo potencial en la salud de los consumidores en el valle del Mantaro.",
+        "investigadores": [
+          "Gozar Cordova Lilly Nelly",
+          "Orellana Mendoza Edith Pilar",
+          "Quispe Coquil Violeta"
+        ]
+      },
+      {
+        "titulo": "Aportes del Eucalyptus globulus al desarrollo sostenible de las comunidades campesinas - Valle del Mantaro.",
+        "investigadores": [
+          "Cerron Tapia Rudecindo",
+          "Indigoyen Ramirez Teofilo Eusebio",
+          "Valle Rafael Fatima Teresa"
+        ]
+      },
+      {
+        "titulo": "Estructura forestal y rasgos funcionales de Polylepis rodolfo-vasquezii mediante teledetección como indicadores en la selección de individuos para la propagación como acción de conservación y restauración en la cuenca de Pomananta, Comas-Concepción.",
+        "investigadores": [
+          "Alvarez Orellana Julio Cesar",
+          "Ramirez Salas Wilfredo",
+          "Zuñiga Lopez Dominga Gladys"
+        ]
+      }
+    ],
+    "2022": [
+      {
+        "titulo": "Revisión de Literatura: Biorremediación de aguas contaminadas por metales pesados mediante bioabsorbentes.",
+        "investigadores": [
+          "Sarapura Chamorro Vicky Maria Paz",
+          "Sotelo Alcantara Bertha Carolina"
+        ]
+      },
+      {
+        "titulo": "Dinámica de la industria del triplay y madera laminada en el Perú 1999 - 2020.",
+        "investigadores": [
+          "Cerron Tapia Rudecindo",
+          "Indigoyen Ramirez Teofilo Eusebio"
+        ]
+      },
+      {
+        "titulo": "Método de estimación del espesor de viruta en el aserrío de Eucalyptus globulus Labill por medición directa de los fractales de aserrín.",
+        "investigadores": [
+          "Cerron Tapia Rudecindo",
+          "Miguel Miguel Hugo Wenceslao"
+        ]
+      },
+      {
+        "titulo": "Análisis y acopio de vertederos por medio de imágenes satelitales, para la gestión de residuos sólidos municipales.",
+        "investigadores": [
+          "Jauregui Ofracio Jeanette Danizza",
+          "Revolo Acevedo Ronald Hector"
+        ]
+      },
+      {
+        "titulo": "Composición florística del bosque montano ubicado en el centro poblado de Colpar, distrito de Quilcas, provincia de Huancayo, región Junín.",
+        "investigadores": [
+          "Lujan Cardenas Wilmer Jhon",
+          "Osorio Berrocal Emilio"
+        ]
+      },
+      {
+        "titulo": "El cambio climático y sus impactos en el Valle del Mantaro en los últimos 10 años.",
+        "investigadores": [
+          "Revolo Acevedo Ronald Hector"
+        ]
+      },
+      {
+        "titulo": "Impacto en la adaptación de plantas de especies nativas del Perú y el mundo ante los efectos del cambio climático.",
+        "investigadores": [
+          "Osorio Berrocal Emilio",
+          "Zarate Quiñones Rosa Haydee"
+        ]
+      },
+      {
+        "titulo": "Influencia de diferentes pisos altitudinales en la morfometría foliar de la especie Polylepis sp.",
+        "investigadores": [
+          "Claros Cuadrado Jose Luis"
+        ]
+      },
+      {
+        "titulo": "Caudales de crecida y tiempos de retorno del río Achamayo, Concepción - Junín. Periodo 2022 - 2023.",
+        "investigadores": [
+          "Menacho Limaymanta Ricardo",
+          "Zorrilla Delgado Edwin"
+        ]
+      },
+      {
+        "titulo": "Relación de la vegetación y el suelo del ecosistema de pajonales de puna húmeda en áreas del centro de producción Casa Blanca - Pomacancha, Jauja.",
+        "investigadores": [
+          "Lujan Cardenas Wilmer Jhon",
+          "Ramirez Salas Wilfredo"
+        ]
+      },
+      {
+        "titulo": "Guía ilustrada de insectos de arbolado en Valle del Mantaro.",
+        "investigadores": [
+          "Baltazar Castañeda Hernan"
+        ]
+      }
+    ],
+    "2021": [
+      {
+        "titulo": "Políticas ambientales y gestión del manejo de los residuos en el Distrito de El Tambo.",
+        "investigadores": [
+          "Ramirez Salas Wilfredo"
+        ]
+      },
+      {
+        "titulo": "Restauración de áreas degradadas con plantones de regeneración natural de Baccharis latifolia (Ruiz & Pav.) Pers.",
+        "investigadores": [
+          "Bullon Rosas Juan Jose",
+          "Huaman Huaman Cirilo Walter"
+        ]
+      },
+      {
+        "titulo": "Conciencia ambiental y la calidad de vida en los estudiantes de la Universidad Nacional del Centro del Perú.",
+        "investigadores": [
+          "Revolo Acevedo Ronald Hector"
+        ]
+      },
+      {
+        "titulo": "Métodos de valoración económica total de parques urbanos.",
+        "investigadores": [
+          "Cerron Tapia Rudecindo",
+          "Indigoyen Ramirez Teofilo Eusebio"
+        ]
+      },
+      {
+        "titulo": "Evaluación sistémica de la sostenibilidad del aserradero \"Maderas Foresta EIRL\" Huancayo, Perú.",
+        "investigadores": [
+          "Jauregui Ofracio Jeanette Danizza",
+          "Miguel Miguel Hugo Wenceslao"
+        ]
+      },
+      {
+        "titulo": "Contaminación y riesgo ecológico por metales pesados en los suelos circundantes a los botaderos \"Eden\" y \"Agua de las Vírgenes\", Huancayo.",
+        "investigadores": [
+          "Huaman Huaman Cirilo Walter",
+          "Orellana Mendoza Edith Pilar",
+          "Revolo Acevedo Ronald Hector"
+        ]
+      },
+      {
+        "titulo": "Evaluación de la vegetación arbórea urbana en la retención de material particulado en el distrito de San Jerónimo de Tunán.",
+        "investigadores": [
+          "Gozar Cordova Lilly Nelly"
+        ]
+      },
+      {
+        "titulo": "Efecto de las distancias filogenéticas y la gradiente altitudinal sobre la intensidad de interacciones entre plantas en parches de bosque natural del Área de Conservación Privada Ilish Pichacoto, Huancayo - Junín.",
+        "investigadores": [
+          "Lujan Cardenas Wilmer Jhon"
+        ]
+      },
+      {
+        "titulo": "Percepciones valores actitudes del desarrollo sostenible y consecuencias psicológicas de la covid-19 en estudiantes de la Facultad de ciencias forestales y del ambiente.",
+        "investigadores": [
+          "Alvarez Orellana Julio Cesar",
+          "Osorio Berrocal Emilio"
+        ]
+      },
+      {
+        "titulo": "Percepción y factores que influyen en los servicios ecosistémicos de los bosques de neblina de la concesión de conservación Inchatoshi Kametsha, Satipo, Junín.",
+        "investigadores": [
+          "Lujan Cardenas Wilmer Jhon",
+          "Ramirez Salas Wilfredo"
+        ]
+      },
+      {
+        "titulo": "Características tecnológicas de las maderas de Celtis schippii y Gallesia integrifolia para la industria de paneles de madera.",
+        "investigadores": [
+          "Salvatierra Madueño Edgar Ronaldo",
+          "Aylas Montalvo Antonio Saturnino"
+        ]
+      },
+      {
+        "titulo": "Revisión de Literatura: Restauración de suelos degradados por minería a nivel mundial.",
+        "investigadores": [
+          "Sarapura Chamorro Vicky Maria Paz",
+          "Sotelo Alcantara Bertha Carolina"
+        ]
+      },
+      {
+        "titulo": "Efecto de los hongos ligninolíticos en la biodegradación de colillas de cigarro.",
+        "investigadores": [
+          "Claros Cuadrado Jose Luis"
+        ]
+      },
+      {
+        "titulo": "Concentración de metales tóxicos en plantas medicinales, suelo y agua.",
+        "investigadores": [
+          "Zarate Quiñones Rosa Haydee",
+          "Jauregui Ofracio Jeanette Danizza"
+        ]
+      },
+      {
+        "titulo": "Atributos jurídicos para considerar a la naturaleza como sujeto de derecho en la reforma de la constitución del estado peruano.",
+        "investigadores": [
+          "Pomachagua Paucar Jesus Eduardo",
+          "Valle Rafael Fatima Teresa"
+        ]
+      },
+      {
+        "titulo": "Gestión municipal y el desarrollo sostenible en el distrito de San Juan de Jarpa.",
+        "investigadores": [
+          "Raymundo Herrera Cesar Martin"
+        ]
+      },
+      {
+        "titulo": "Primer registro de Eurystea sordida (Coleoptera: Cerambycidae) en Alnus acuminata (Betulaceae) en el Valle del Mantaro, Región Junín, Perú.",
+        "investigadores": [
+          "Baltazar Castañeda Hernan"
+        ]
+      },
+      {
+        "titulo": "Zanjas de infiltración en restauración de áreas degradadas con plantones de regeneración natural de Bacharis latifolia (Ruiz y Pav.) Pers.",
+        "investigadores": [
+          "Bullon Rosas Juan Jose",
+          "Huaman Huaman Cirilo Walter"
+        ]
+      },
+      {
+        "titulo": "Efecto del abono orgánico y fertilizante químico sobre la acumulación de metales pesados en el sistema suelo-papa nativa.",
+        "investigadores": [
+          "Orellana Mendoza Edith Pilar"
+        ]
+      }
+    ],
+    "2020": [
+      {
+        "titulo": "Responsabilidad pública ambiental y su relación con la gestión de los residuos sólidos municipales del distrito de Huancán - Huancayo 2020.",
+        "investigadores": [
+          "Sotelo Alcantara Bertha Carolina"
+        ]
+      },
+      {
+        "titulo": "Contaminación y riesgo ecológico por metales pesados en suelos con cultivos de papa nativa y maca, Junín.",
+        "investigadores": [
+          "Orellana Mendoza Edith Pilar",
+          "Sarapura Chamorro Vicky Maria Paz",
+          "Zarate Quiñones Rosa Haydee"
+        ]
+      },
+      {
+        "titulo": "Evaluación de la calidad de plantas de los diferentes viveros de producción forestal del Valle del Mantaro.",
+        "investigadores": [
+          "Claros Cuadrado Jose Luis"
+        ]
+      },
+      {
+        "titulo": "Estimación de carbono almacenado en la flora del humedal Chocón – Jauja.",
+        "investigadores": [
+          "Gozar Cordova Lilly Nelly"
+        ]
+      },
+      {
+        "titulo": "Estudio comparativo de rendimiento de carbón vegetal de Eucalyptus globulus Labill, con madera seca y húmeda.",
+        "investigadores": [
+          "Alvarez Orellana Julio Cesar",
+          "Raymundo Herrera Cesar Martin"
+        ]
+      },
+      {
+        "titulo": "El Comercio de Principales Productos Forestales No Maderables y su Incidencia en la Economía del sector forestal.",
+        "investigadores": [
+          "Cerron Tapia Rudecindo",
+          "Indigoyen Ramirez Teofilo Eusebio"
+        ]
+      },
+      {
+        "titulo": "Propiedades físicas de dos especies forestales, Satipo - Junín.",
+        "investigadores": [
+          "Aylas Montalvo Antonio Saturnino"
+        ]
+      }
+    ]
+  },
+  "pdfUrl": "https://www.w3.org/WAI/ER/tests/xhtml/testfiles/resources/pdf/dummy.pdf",
+  "pdfTitulo": "Reglamento General de Proyectos de Investigacion Cientifica - FCFA UNCP.pdf"
+}

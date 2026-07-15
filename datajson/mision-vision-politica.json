@@ -1,0 +1,22 @@
+{
+  "compromiso": "EN LA FACULTAD TENEMOS EL COMPROMISO CON EL MEDIO AMBIENTE Y LA SOCIEDAD DE HACER SINERGIA PARA EL BENEFICIO DE LAS PARTES",
+  "mision": {
+    "titulo": "MISIÓN",
+    "descripcion": "Formar ingenieros en ciencias forestales y del ambiente, innovadores con identidad y práctica de valores, comprometidos con el desarrollo forestal sostenible.",
+    "imagen": "https://images.unsplash.com/photo-1542601906990-b4d3fb778b09?auto=format&fit=crop&q=80&w=1200"
+  },
+  "vision": {
+    "titulo": "VISIÓN",
+    "descripcion": "Facultad innovadora y humanista, generadora de ciencia y tecnología, líder en el desarrollo forestal sostenible.",
+    "imagen": "https://images.unsplash.com/photo-1530595467537-0b5996c41f2d?auto=format&fit=crop&q=80&w=1200"
+  },
+  "politicaCalidad": {
+    "titulo": "POLÍTICA DE CALIDAD",
+    "parrafos": [
+      "La Facultad de Ciencias Forestales y del Ambiente de la Universidad Nacional del Centro del Perú forma profesionales en el campo forestal y ambiental, con orientación tecno-científica, humanística, ética, valores, responsabilidad social y comprometidos con el desarrollo sostenible.",
+      "Para ello, se cuenta con una plana docente especializada y procesos estructurados con los estándares de calidad establecidos para la carrera profesional, orientándose a la satisfacción de los grupos de interés, al cumplimiento de los requisitos aplicables y a la mejora continua del sistema de gestión de la calidad."
+    ],
+    "imagen": "https://images.unsplash.com/photo-1502082553048-f009c37129b9?auto=format&fit=crop&q=80&w=1200"
+  },
+  "resolucion": "RESOLUCIÓN N° 062-2022-CF-FCFA-UNCP"
+}
