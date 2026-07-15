@@ -34,7 +34,7 @@ const Sumillas: React.FC = () => {
   useEffect(() => {
     const fetchSumillas = async () => {
       try {
-        const response = await fetch('/datajson/sumillas.json');
+        const response = await fetch('datajson/sumillas.json');
         if (!response.ok) {
           throw new Error('Error al cargar el compendio de sumillas');
         }

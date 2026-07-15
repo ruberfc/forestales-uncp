@@ -46,7 +46,7 @@ const CalidadManual: React.FC = () => {
   useEffect(() => {
     const fetchManualData = async () => {
       try {
-        const response = await fetch('/datajson/calidad-manual.json');
+        const response = await fetch('datajson/calidad-manual.json');
         if (!response.ok) {
           throw new Error('Error al cargar el Manual de Calidad');
         }

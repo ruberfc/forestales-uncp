@@ -44,7 +44,7 @@ const MaestriaEcoturismo: React.FC = () => {
   useEffect(() => {
     const fetchMaestria = async () => {
       try {
-        const response = await fetch('/datajson/maestria-ecoturismo.json');
+        const response = await fetch('datajson/maestria-ecoturismo.json');
         if (!response.ok) {
           throw new Error('Error al cargar la información de la maestría');
         }

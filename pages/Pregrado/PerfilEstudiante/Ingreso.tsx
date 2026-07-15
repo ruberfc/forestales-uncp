@@ -19,7 +19,7 @@ const Ingreso: React.FC = () => {
   useEffect(() => {
     const fetchIngreso = async () => {
       try {
-        const response = await fetch('/datajson/perfil-ingreso.json');
+        const response = await fetch('datajson/perfil-ingreso.json');
         if (!response.ok) {
           throw new Error('Error al cargar el perfil de ingreso');
         }

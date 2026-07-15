@@ -43,7 +43,7 @@ const MaestriaGestionAmbiental: React.FC = () => {
   useEffect(() => {
     const fetchMaestria = async () => {
       try {
-        const response = await fetch('/datajson/maestria-gestion-ambiental.json');
+        const response = await fetch('datajson/maestria-gestion-ambiental.json');
         if (!response.ok) {
           throw new Error('Error al cargar la información de la maestría');
         }

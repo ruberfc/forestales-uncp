@@ -30,7 +30,7 @@ const CalendarioAcademico: React.FC = () => {
   useEffect(() => {
     const fetchCalendario = async () => {
       try {
-        const response = await fetch('/datajson/calendario.json');
+        const response = await fetch('datajson/calendario.json');
         if (!response.ok) {
           throw new Error('Error al cargar el calendario académico');
         }

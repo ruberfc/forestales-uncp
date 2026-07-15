@@ -66,7 +66,7 @@ const InvestigacionFlujograma: React.FC = () => {
   useEffect(() => {
     const fetchFlujogramaData = async () => {
       try {
-        const response = await fetch('/datajson/iei-flujograma.json');
+        const response = await fetch('datajson/iei-flujograma.json');
         if (!response.ok) {
           throw new Error('Error al cargar la información del Flujograma e Instituto');
         }

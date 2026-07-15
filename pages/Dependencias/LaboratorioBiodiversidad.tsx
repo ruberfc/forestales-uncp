@@ -277,7 +277,7 @@ const LaboratorioBiodiversidad: React.FC = () => {
                         Nuestra Misión
                       </h4>
                       <p className="text-xs md:text-sm text-gray-600 dark:text-gray-300 leading-relaxed text-justify m-0">
-                        {data.laboratorio.mision}
+                        {data?.laboratorio.mision}
                       </p>
                     </div>
 
@@ -290,7 +290,7 @@ const LaboratorioBiodiversidad: React.FC = () => {
                         Nuestra Visión
                       </h4>
                       <p className="text-xs md:text-sm text-gray-600 dark:text-gray-300 leading-relaxed text-justify m-0">
-                        {data.laboratorio.vision}
+                        {data?.laboratorio.vision}
                       </p>
                     </div>
 
@@ -301,7 +301,7 @@ const LaboratorioBiodiversidad: React.FC = () => {
                 {/* Líneas de investigación comentadas temporalmente */}
                 {false && activeTab === 'lineas' && (
                   <div className="grid grid-cols-1 md:grid-cols-2 gap-6 animate-fadeIn">
-                    {data.lineasInvestigacion.map((linea, idx) => (
+                    {data?.lineasInvestigacion.map((linea, idx) => (
                       <div 
                         key={idx}
                         className="bg-white dark:bg-slate-900 border border-gray-150 dark:border-slate-800 p-6 rounded-3xl flex gap-4 items-start shadow-sm hover:border-uncp/20 transition-all duration-300 group"
@@ -407,7 +407,7 @@ const LaboratorioBiodiversidad: React.FC = () => {
                 {/* Servicios comentados temporalmente */}
                 {false && activeTab === 'servicios' && (
                   <div className="grid grid-cols-1 md:grid-cols-2 gap-6 animate-fadeIn">
-                    {data.servicios.map((serv, idx) => (
+                    {data?.servicios.map((serv, idx) => (
                       <div 
                         key={idx}
                         className="bg-white dark:bg-slate-900 border border-gray-150 dark:border-slate-800 p-6 rounded-3xl flex flex-col justify-between space-y-4 shadow-sm"

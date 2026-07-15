@@ -56,7 +56,7 @@ const CalidadMapa: React.FC = () => {
   useEffect(() => {
     const fetchMapaData = async () => {
       try {
-        const response = await fetch('/datajson/calidad-mapa.json');
+        const response = await fetch('datajson/calidad-mapa.json');
         if (!response.ok) {
           throw new Error('Error al cargar el Mapa de Procesos');
         }

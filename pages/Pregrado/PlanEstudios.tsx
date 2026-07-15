@@ -32,7 +32,7 @@ const PlanEstudios: React.FC = () => {
   useEffect(() => {
     const fetchPlanEstudios = async () => {
       try {
-        const response = await fetch('/datajson/plan-estudios.json');
+        const response = await fetch('datajson/plan-estudios.json');
         if (!response.ok) {
           throw new Error('Error al cargar el plan de estudios');
         }

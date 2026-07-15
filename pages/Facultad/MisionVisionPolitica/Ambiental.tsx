@@ -21,7 +21,7 @@ const Ambiental: React.FC = () => {
   useEffect(() => {
     const fetchAmbiental = async () => {
       try {
-        const response = await fetch('/datajson/politica-ambiental.json');
+        const response = await fetch('datajson/politica-ambiental.json');
         if (!response.ok) {
           throw new Error('Error al cargar la política ambiental');
         }

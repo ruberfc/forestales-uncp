@@ -63,7 +63,7 @@ const Proceso: React.FC = () => {
   useEffect(() => {
     const fetchAcreditacion = async () => {
       try {
-        const response = await fetch('/datajson/acreditacion.json');
+        const response = await fetch('datajson/acreditacion.json');
         if (!response.ok) {
           throw new Error('Error al cargar los datos de acreditación');
         }

@@ -24,7 +24,7 @@ const Actas: React.FC = () => {
   useEffect(() => {
     const fetchActas = async () => {
       try {
-        const response = await fetch('/datajson/actas-consejo.json');
+        const response = await fetch('datajson/actas-consejo.json');
         if (!response.ok) {
           throw new Error('Error al cargar la lista de actas');
         }

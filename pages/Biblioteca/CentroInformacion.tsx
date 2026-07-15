@@ -29,7 +29,7 @@ const CentroInformacion: React.FC = () => {
   useEffect(() => {
     const fetchBooks = async () => {
       try {
-        const response = await fetch('/datajson/centro-informacion.json');
+        const response = await fetch('datajson/centro-informacion.json');
         if (!response.ok) throw new Error('Error al cargar los datos');
         const data = await response.json();
         setBooks(data);

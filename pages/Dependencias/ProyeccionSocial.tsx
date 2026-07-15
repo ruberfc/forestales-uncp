@@ -58,7 +58,7 @@ const ProyeccionSocial: React.FC = () => {
   useEffect(() => {
     const fetchProyeccionData = async () => {
       try {
-        const response = await fetch('/datajson/proyeccion-social.json');
+        const response = await fetch('datajson/proyeccion-social.json');
         if (!response.ok) {
           throw new Error('Error al cargar la información de Proyección Social');
         }

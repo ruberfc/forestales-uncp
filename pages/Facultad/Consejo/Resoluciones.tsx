@@ -23,7 +23,7 @@ const Resoluciones: React.FC = () => {
   useEffect(() => {
     const fetchResoluciones = async () => {
       try {
-        const response = await fetch('/datajson/resoluciones-consejo.json');
+        const response = await fetch('datajson/resoluciones-consejo.json');
         if (!response.ok) {
           throw new Error('Error al cargar las resoluciones de consejo');
         }

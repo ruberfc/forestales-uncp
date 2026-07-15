@@ -59,7 +59,7 @@ const CalidadRiesgos: React.FC = () => {
   useEffect(() => {
     const fetchRiesgosData = async () => {
       try {
-        const response = await fetch('/datajson/calidad-riesgos.json');
+        const response = await fetch('datajson/calidad-riesgos.json');
         if (!response.ok) {
           throw new Error('Error al cargar la gestión de riesgos y oportunidades');
         }

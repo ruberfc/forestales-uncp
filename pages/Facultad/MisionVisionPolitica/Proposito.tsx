@@ -18,7 +18,7 @@ const Proposito: React.FC = () => {
   useEffect(() => {
     const fetchProposito = async () => {
       try {
-        const response = await fetch('/datajson/proposito.json');
+        const response = await fetch('datajson/proposito.json');
         if (!response.ok) {
           throw new Error('Error al cargar el propósito institucional');
         }

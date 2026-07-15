@@ -25,7 +25,7 @@ const Libros: React.FC = () => {
   useEffect(() => {
     const fetchLibros = async () => {
       try {
-        const response = await fetch('/datajson/libros-investigacion.json');
+        const response = await fetch('datajson/libros-investigacion.json');
         if (!response.ok) {
           throw new Error('Error al cargar el catálogo de libros');
         }

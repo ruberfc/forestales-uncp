@@ -19,7 +19,7 @@ const Egreso: React.FC = () => {
   useEffect(() => {
     const fetchEgreso = async () => {
       try {
-        const response = await fetch('/datajson/perfil-egreso.json');
+        const response = await fetch('datajson/perfil-egreso.json');
         if (!response.ok) {
           throw new Error('Error al cargar el perfil de egreso');
         }

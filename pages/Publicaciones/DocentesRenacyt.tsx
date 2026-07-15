@@ -21,7 +21,7 @@ const DocentesRenacyt: React.FC = () => {
   useEffect(() => {
     const fetchDocentes = async () => {
       try {
-        const response = await fetch('/datajson/docentes-renacyt.json');
+        const response = await fetch('datajson/docentes-renacyt.json');
         if (!response.ok) {
           throw new Error('Error al cargar la lista de docentes RENACYT');
         }

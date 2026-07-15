@@ -22,7 +22,7 @@ const Miembros: React.FC = () => {
   useEffect(() => {
     const fetchMiembros = async () => {
       try {
-        const response = await fetch('/datajson/consejo-miembros.json');
+        const response = await fetch('datajson/consejo-miembros.json');
         if (!response.ok) {
           throw new Error('Error al cargar la lista de miembros');
         }

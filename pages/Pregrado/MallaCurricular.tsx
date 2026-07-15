@@ -26,7 +26,7 @@ const MallaCurricular: React.FC = () => {
   useEffect(() => {
     const fetchMalla = async () => {
       try {
-        const response = await fetch('/datajson/malla-curricular.json');
+        const response = await fetch('datajson/malla-curricular.json');
         if (!response.ok) {
           throw new Error('Error al cargar la malla curricular');
         }

@@ -67,7 +67,7 @@ const InvestigacionGuias: React.FC = () => {
   useEffect(() => {
     const fetchGuiasData = async () => {
       try {
-        const response = await fetch('/datajson/iei-guias.json');
+        const response = await fetch('datajson/iei-guias.json');
         if (!response.ok) {
           throw new Error('Error al cargar las guías del Instituto de Investigación');
         }

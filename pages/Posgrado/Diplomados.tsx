@@ -42,7 +42,7 @@ const Diplomados: React.FC = () => {
   useEffect(() => {
     const fetchDiplomados = async () => {
       try {
-        const response = await fetch('/datajson/diplomados.json');
+        const response = await fetch('datajson/diplomados.json');
         if (!response.ok) {
           throw new Error('Error al cargar la información de diplomados');
         }

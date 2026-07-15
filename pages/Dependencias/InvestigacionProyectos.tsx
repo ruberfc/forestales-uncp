@@ -58,7 +58,7 @@ const InvestigacionProyectos: React.FC = () => {
   useEffect(() => {
     const fetchInvestigacionData = async () => {
       try {
-        const response = await fetch('/datajson/proyectos-investigacion.json');
+        const response = await fetch('datajson/proyectos-investigacion.json');
         if (!response.ok) {
           throw new Error('Error al cargar la información del Instituto de Investigación');
         }

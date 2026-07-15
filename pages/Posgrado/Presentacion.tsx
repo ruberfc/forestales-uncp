@@ -39,7 +39,7 @@ const Presentacion: React.FC = () => {
   useEffect(() => {
     const fetchPresentacion = async () => {
       try {
-        const response = await fetch('/datajson/posgrado-presentacion.json');
+        const response = await fetch('datajson/posgrado-presentacion.json');
         if (!response.ok) {
           throw new Error('Error al cargar la presentación de posgrado');
         }

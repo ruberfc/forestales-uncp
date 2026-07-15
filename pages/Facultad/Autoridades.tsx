@@ -21,7 +21,7 @@ const Autoridades: React.FC = () => {
   useEffect(() => {
     const fetchAutoridades = async () => {
       try {
-        const response = await fetch('/datajson/autoridades.json');
+        const response = await fetch('datajson/autoridades.json');
         if (!response.ok) {
           throw new Error('Error al cargar la lista de autoridades');
         }

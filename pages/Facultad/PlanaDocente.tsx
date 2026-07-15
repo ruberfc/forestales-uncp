@@ -24,7 +24,7 @@ const PlanaDocente: React.FC = () => {
   useEffect(() => {
     const fetchDocentes = async () => {
       try {
-        const response = await fetch('/datajson/plana-docente.json');
+        const response = await fetch('datajson/plana-docente.json');
         if (!response.ok) {
           throw new Error('Error al cargar la plana docente');
         }
