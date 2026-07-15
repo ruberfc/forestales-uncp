@@ -23,7 +23,7 @@ const ResolucionesDecanato: React.FC = () => {
   useEffect(() => {
     const fetchResoluciones = async () => {
       try {
-        const response = await fetch('/datajson/resoluciones-decanato.json');
+        const response = await fetch('datajson/resoluciones-decanato.json');
         if (!response.ok) {
           throw new Error('Error al cargar las resoluciones de decanato');
         }

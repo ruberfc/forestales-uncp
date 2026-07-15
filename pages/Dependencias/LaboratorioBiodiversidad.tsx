@@ -85,7 +85,7 @@ const LaboratorioBiodiversidad: React.FC = () => {
   useEffect(() => {
     const fetchLabData = async () => {
       try {
-        const response = await fetch('/datajson/laboratorio-biodiversidad.json');
+        const response = await fetch('datajson/laboratorio-biodiversidad.json');
         if (!response.ok) {
           throw new Error('Error al cargar la información del Laboratorio de Biodiversidad');
         }
