@@ -1,0 +1,72 @@
+[
+  {
+    "id": 1,
+    "nombres": "Rodriguez Cerrón Mauro",
+    "titulo": "Ing. Forestal",
+    "grado": "Doctor",
+    "correo": "mauro1rodriguez@uncp.edu.pe",
+    "mencion": "Ciencias Ambientales y Desarrollo Sostenible",
+    "categoria": "Principales",
+    "foto": ""
+  },
+  {
+    "id": 2,
+    "nombres": "Menacho Limaymanta Ricardo",
+    "titulo": "Ing. Forestal",
+    "grado": "Doctor",
+    "correo": "rmenacho@uncp.edu.pe",
+    "mencion": "Administración de la Educación",
+    "categoria": "Principales",
+    "foto": ""
+  },
+  {
+    "id": 3,
+    "nombres": "Zorrilla Delgado Edwin",
+    "titulo": "Ing. Forestal",
+    "grado": "Maestro",
+    "correo": "ezorrilla@uncp.edu.pe",
+    "mencion": "Magister en Administración de la Educación",
+    "categoria": "Principales",
+    "foto": ""
+  },
+  {
+    "id": 4,
+    "nombres": "Huaman Huaman Cirilo Walter",
+    "titulo": "Ing. Forestal",
+    "grado": "Doctor",
+    "correo": "whuaman@uncp.edu.pe",
+    "mencion": "Manejo y Conservación de Bosques",
+    "categoria": "Principales",
+    "foto": ""
+  },
+  {
+    "id": 5,
+    "nombres": "Alvarez Orellana Julio Cesar",
+    "titulo": "Ing. Forestal",
+    "grado": "Doctor",
+    "correo": "jalvarez@uncp.edu.pe",
+    "mencion": "Tecnología de Productos Forestales",
+    "categoria": "Principales",
+    "foto": ""
+  },
+  {
+    "id": 6,
+    "nombres": "Bonilla Mancilla Humberto Dax",
+    "titulo": "Ing. Forestal",
+    "grado": "Doctor",
+    "correo": "hbonilla@uncp.edu.pe",
+    "mencion": "Silvicultura y Ecología Forestal",
+    "categoria": "Principales",
+    "foto": ""
+  },
+  {
+    "id": 7,
+    "nombres": "Orellana Mendoza Edith Pilar",
+    "titulo": "Ing. Forestal",
+    "grado": "Doctora",
+    "correo": "eorellana@uncp.edu.pe",
+    "mencion": "Gestión Ambiental y Desarrollo Sostenible",
+    "categoria": "Asociados",
+    "foto": ""
+  }
+]

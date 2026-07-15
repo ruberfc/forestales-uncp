@@ -1,0 +1,6 @@
+{
+  "name": "Facultad de Ciencias Forestales y del Ambiente - UNCP",
+  "description": "Sitio web moderno, responsivo y atractivo para la Facultad de Ciencias Forestales y del Ambiente de la UNCP, con soporte para modo oscuro.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

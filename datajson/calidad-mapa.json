@@ -1,0 +1,103 @@
+{
+  "titulo": "Mapa de Procesos del Sistema de Gestión de la Calidad",
+  "codigo": "MP-SGC-FCFA-03",
+  "version": "V.4.0",
+  "fechaAprobacion": "Agosto 2024",
+  "introduccion": "El Mapa de Procesos de la Facultad de Ciencias Forestales y del Ambiente (FCFA) es la representación gráfica y analítica de la cadena de valor de nuestra institución. Este enfoque sistemático permite estructurar todas las actividades académicas y administrativas de manera que interactúen eficientemente para satisfacer las necesidades de nuestros estudiantes y grupos de interés, garantizando la mejora continua y el cumplimiento de los estándares de acreditación de alta calidad.",
+  "categorias": [
+    {
+      "tipo": "estrategicos",
+      "nombre": "Procesos Estratégicos",
+      "descripcion": "Definen las directrices, políticas, objetivos y metas estratégicas a largo plazo de la facultad. Guían la toma de decisiones y el rumbo institucional.",
+      "icon": "Compass",
+      "color": "indigo",
+      "items": [
+        {
+          "nombre": "Planificación Estratégica y Presupuesto",
+          "descripcion": "Elaboración e implementación del Plan Operativo Institucional (POI) y Plan Estratégico, asignando los recursos financieros con enfoque de resultados."
+        },
+        {
+          "nombre": "Gestión de la Calidad y Acreditación",
+          "descripcion": "Monitoreo del cumplimiento de los estándares de calidad del SINEACE, conducción de procesos de autoevaluación académica y fomento de la mejora continua."
+        },
+        {
+          "nombre": "Relaciones Internacionales e Interinstitucionales",
+          "descripcion": "Establecimiento y mantenimiento de convenios nacionales e internacionales que promuevan la movilidad académica y la investigación conjunta."
+        }
+      ]
+    },
+    {
+      "tipo": "misionales",
+      "nombre": "Procesos Misionales / Operativos",
+      "descripcion": "Constituyen la razón de ser de la facultad. Están directamente relacionados con la prestación del servicio educativo, la investigación y la vinculación con el medio.",
+      "icon": "Award",
+      "color": "emerald",
+      "items": [
+        {
+          "nombre": "Formación Académica y Rediseño Curricular",
+          "descripcion": "Diseño, ejecución y evaluación de los planes de estudio de pregrado y posgrado, garantizando un aprendizaje integral y pertinente en ciencias forestales y ambientales."
+        },
+        {
+          "nombre": "Investigación Científica, Innovación y Transferencia",
+          "descripcion": "Fomento, financiamiento y desarrollo de proyectos de investigación científica orientados a solucionar problemáticas del sector ecológico, silvícola y ambiental."
+        },
+        {
+          "nombre": "Proyección Social y Extensión Universitaria",
+          "descripcion": "Ejecución de actividades y programas prácticos que transfieren conocimiento científico a comunidades vulnerables y gremios forestales regionales."
+        },
+        {
+          "nombre": "Seguimiento al Graduado e Inserción Laboral",
+          "descripcion": "Acompañamiento, capacitación continua y medición del impacto laboral de los egresados en el mercado forestal y medioambiental."
+        }
+      ]
+    },
+    {
+      "tipo": "apoyo",
+      "nombre": "Procesos de Soporte / Apoyo",
+      "descripcion": "Proporcionan los recursos humanos, logísticos, financieros e informáticos necesarios para asegurar la correcta ejecución de los procesos estratégicos y misionales.",
+      "icon": "Wrench",
+      "color": "amber",
+      "items": [
+        {
+          "nombre": "Gestión de Recursos Humanos",
+          "descripcion": "Selección, contratación, inducción, capacitación permanente y evaluación del desempeño docente y del personal administrativo de la facultad."
+        },
+        {
+          "nombre": "Gestión de Infraestructura y Equipamiento de Laboratorios",
+          "descripcion": "Mantenimiento, equipamiento tecnológico y calibración de instrumental especializado en laboratorios, viveros forestales y centros de cómputo."
+        },
+        {
+          "nombre": "Gestión de Bienestar Universitario",
+          "descripcion": "Servicios de salud integral, comedor, becas, apoyo psicopedagógico, deportes y cultura para el desarrollo socioemocional de la comunidad estudiantil."
+        },
+        {
+          "nombre": "Sistemas de Información y Soporte Tecnológico",
+          "descripcion": "Mantenimiento y optimización de plataformas de intranet académica, portales de investigación, campus virtual y conectividad a internet."
+        }
+      ]
+    },
+    {
+      "tipo": "evaluacion",
+      "nombre": "Procesos de Evaluación y Control",
+      "descripcion": "Miden el desempeño general del sistema. Permiten detectar desviaciones, analizar no conformidades y establecer planes de acción correctivos oportunos.",
+      "icon": "LineChart",
+      "color": "rose",
+      "items": [
+        {
+          "nombre": "Auditorías Internas de Calidad",
+          "descripcion": "Evaluación e inspección interna periódica para constatar el nivel de cumplimiento del Sistema de Gestión de Calidad (SGC) respecto a normas ISO y SINEACE."
+        },
+        {
+          "nombre": "Gestión de Reclamos, Sugerencias y Satisfacción del Usuario",
+          "descripcion": "Recopilación y análisis sistematizado de encuestas de opinión estudiantil, docente, administrativa y de empleadores externos."
+        },
+        {
+          "nombre": "Revisión por la Dirección",
+          "descripcion": "Análisis anual de desempeño efectuado por el Decanato y Consejo de Facultad para dictar reajustes, presupuestos de mejora y acciones preventivas."
+        }
+      ]
+    }
+  ],
+  "pdfUrl": "https://www.w3.org/WAI/ER/tests/xhtml/testfiles/resources/pdf/dummy.pdf",
+  "pdfTitulo": "Mapa de Procesos - SGC - Facultad de Ciencias Forestales y del Ambiente (FCFA).pdf"
+}

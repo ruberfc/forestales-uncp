@@ -1,0 +1,48 @@
+{
+  "titulo": "Maestría en Gestión Sostenible de Cuencas Hidrográficas",
+  "perfilEgresado": "El Maestro en Gestión Sostenible de Cuencas Hidrográficas tendrá una formación sólida en el conocimiento científico y tecnológico de la planificación, gestión y manejo de cuencas acorde al avance de la ciencia; para diseñar, gerenciar, formular, ejecutar y evaluar planes, programas y proyectos de desarrollo económico, social, y ambiental en Cuencas Hidrográficas, delineando el desarrollo de políticas basado en la planeación por cuencas, en un contexto interdisciplinario y social; con la finalidad de contribuir al logro del desarrollo sostenible de la población asentada en una unidad de análisis espacial, con una visión holística y enfoque integral, así como la protección, conservación, aprovechamiento y manejo sostenible del agua.",
+  "gradoAcademico": "Maestro en Gestión Sostenible de Cuencas Hidrográficas",
+  "duracion": "18 Meses (4 semestres académicos)",
+  "inversion": "Matrícula por Semestre S/100.00",
+  "pensionMensual": "S/300.00 (4 cuotas x semestre)",
+  "totalCreditos": 48,
+  "disenoCurricular": "Diseño Curricular 2023",
+  "planEstudios": [
+    {
+      "semestre": "Semestre I",
+      "cursos": [
+        "Hidrología",
+        "Economía Ambiental",
+        "Dinámica de Sistemas en Cuencas Hidrográficas",
+        "Liderazgo y Comunicación Social"
+      ]
+    },
+    {
+      "semestre": "Semestre II",
+      "cursos": [
+        "Legislación en la Gestión de Cuencas Hidrográficas",
+        "Ordenamiento Territorial",
+        "Formulación y Gestión de Proyectos",
+        "Estadística"
+      ]
+    },
+    {
+      "semestre": "Semestre III",
+      "cursos": [
+        "Gestión Integrada de Recursos Hídricos",
+        "Planificación Estratégica",
+        "Gestión de Riesgos Ambientales en Cuencas Hidrográficas",
+        "Seminario de Tesis I"
+      ]
+    },
+    {
+      "semestre": "Semestre IV",
+      "cursos": [
+        "Gestión de Conflictos en Cuencas Hidrográficas",
+        "Gestión y Manejo de Cuencas Hidrográficas",
+        "Control de Torrentes",
+        "Seminario de Tesis II"
+      ]
+    }
+  ]
+}

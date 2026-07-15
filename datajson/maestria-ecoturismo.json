@@ -1,0 +1,48 @@
+{
+  "titulo": "Maestría en Ecoturismo",
+  "perfilEgresado": "El Maestro en Ecoturismo tendrá una formación amplia en el conocimiento técnico y científico del turismo ecológico y cultural; con sólidas bases teóricas, prácticas y metodológicas que le permitirá identificar y dar solución a los problemas ambientales y plantear medidas de mitigación o prevención en la gestión y manejo adecuado de los recursos naturales tanto de flora, fauna y recursos antrópicos destinados al uso del turismo ecológico con una visión y enfoque global.",
+  "gradoAcademico": "Maestro en Ecoturismo",
+  "duracion": "18 Meses (4 semestres académicos)",
+  "inversion": "Matrícula por Semestre S/100.00",
+  "pensionMensual": "S/300.00 (4 cuotas x semestre)",
+  "totalCreditos": 48,
+  "disenoCurricular": "Diseño Curricular 2023",
+  "planEstudios": [
+    {
+      "semestre": "Semestre I",
+      "cursos": [
+        "Ecosistemas y Biodiversidad",
+        "Ecoturismo y Desarrollo Sostenible",
+        "Estrategias para el Desarrollo del Ecoturismo",
+        "Métodos de Investigación"
+      ]
+    },
+    {
+      "semestre": "Semestre II",
+      "cursos": [
+        "Tendencias del Ecoturismo",
+        "Planificación Empresarial Ecoturística",
+        "Sistemas de Áreas Naturales Protegidas",
+        "Tesis I"
+      ]
+    },
+    {
+      "semestre": "Semestre III",
+      "cursos": [
+        "Evaluación de Impactos Ambientales del Ecoturismo",
+        "Estadística Inferencial",
+        "Marketing del Ecoturismo",
+        "Tesis II"
+      ]
+    },
+    {
+      "semestre": "Semestre IV",
+      "cursos": [
+        "Manejo de Recursos Turísticos y Culturales",
+        "Gestión del Ecoturismo Sostenible",
+        "Tesis III",
+        "Redacción del Artículo Científico"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,65 @@
+[
+  {
+    "numero": 1,
+    "nombre": "Dr. Julio César Álvarez Orellana",
+    "cargo": "Decano - Presidente del Consejo de Facultad",
+    "categoria": "Docente",
+    "correo": "jalvarez@uncp.edu.pe"
+  },
+  {
+    "numero": 2,
+    "nombre": "Dr. Mauro Rodríguez Cerrón",
+    "cargo": "Representante Docente",
+    "categoria": "Docente",
+    "correo": "mauro1rodriguez@uncp.edu.pe"
+  },
+  {
+    "numero": 3,
+    "nombre": "Dr. Juan José Bullon Rosas",
+    "cargo": "Representante Docente",
+    "categoria": "Docente",
+    "correo": "jbullon@uncp.edu.pe"
+  },
+  {
+    "numero": 4,
+    "nombre": "Dr. Ronald Hector Revolo Acevedo",
+    "cargo": "Representante Docente",
+    "categoria": "Docente",
+    "correo": "rrevolo@uncp.edu.pe"
+  },
+  {
+    "numero": 6,
+    "nombre": "Dr. Humberto Dax Bonilla Mancilla",
+    "cargo": "Representante Docente",
+    "categoria": "Docente",
+    "correo": "dbonilla@uncp.edu.pe"
+  },
+  {
+    "numero": 7,
+    "nombre": "Ing. Lilly Nelly Gozar Córdova",
+    "cargo": "Representante Docente",
+    "categoria": "Docente",
+    "correo": "lgozar@uncp.edu.pe"
+  },
+  {
+    "numero": 8,
+    "nombre": "Est. Damian Amamro Leonardo Marcelo",
+    "cargo": "Representante Estudiantil (Tercio Estudiantil)",
+    "categoria": "Estudiante",
+    "correo": "d_amamro_m@uncp.edu.pe"
+  },
+  {
+    "numero": 9,
+    "nombre": "Est. Karol Maricielo Chuquillanqui Rojas",
+    "cargo": "Representante Estudiantil (Tercio Estudiantil)",
+    "categoria": "Estudiante",
+    "correo": "k_chuquillanqui_r@uncp.edu.pe"
+  },
+  {
+    "numero": 10,
+    "nombre": "Est. Bill Imanol Doza Montero",
+    "cargo": "Representante Estudiantil (Tercio Estudiantil)",
+    "categoria": "Estudiante",
+    "correo": "b_doza_m@uncp.edu.pe"
+  }
+]

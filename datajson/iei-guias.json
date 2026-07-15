@@ -1,0 +1,80 @@
+{
+  "titulo": "Guías Oficiales para Trabajos de Investigación",
+  "descripcion": "Instrumentos normativos aprobados por el Instituto Especializado de Investigación para estandarizar la formulación, redacción y sustentación de los planes de tesis e informes de investigación forestal y ambiental.",
+  "guias": [
+    {
+      "id": "plan-tesis",
+      "titulo": "GUIA PARA ELABORACION DE PLAN DE TESIS - FCFA",
+      "siglas": "GEPT-FCFA",
+      "descripcion": "Establece las pautas formales y la estructura metodológica obligatoria para la formulación, registro y aprobación del proyecto o plan de investigación preliminar por los graduandos de la facultad.",
+      "codigo": "GUIA-IEI-FCFA-01",
+      "publicacion": "2026",
+      "estructura": [
+        {
+          "seccion": "I. Aspectos Informativos",
+          "contenido": "Título descriptivo del proyecto, línea de investigación prioritaria, datos del ejecutor (tesista) y docente asesor designado."
+        },
+        {
+          "seccion": "II. Aspectos Metodológicos",
+          "contenido": "Planteamiento de la realidad problemática, formulación del problema (general y específicos), hipótesis de trabajo, objetivos y justificación científica, técnica y económica."
+        },
+        {
+          "seccion": "III. Marco Teórico",
+          "contenido": "Antecedentes de investigación (nacionales e internacionales), bases teóricas sólidas y definición conceptual de términos forestales y ambientales."
+        },
+        {
+          "seccion": "IV. Metodología de Investigación",
+          "contenido": "Tipo, nivel y diseño de investigación, población, muestra, descripción minuciosa de variables, técnicas, instrumentos de recolección de datos y análisis estadístico."
+        },
+        {
+          "seccion": "V. Aspectos Administrativos",
+          "contenido": "Presupuesto analítico detallado de recursos y cronograma físico de actividades representado en Diagrama de Gantt."
+        },
+        {
+          "seccion": "VI. Referencias Bibliográficas",
+          "contenido": "Registro ordenado y estandarizado de fuentes bibliográficas citadas directamente en el documento utilizando el estilo APA o Vancouver."
+        }
+      ],
+      "pdfUrl": "https://www.w3.org/WAI/ER/tests/xhtml/testfiles/resources/pdf/dummy.pdf",
+      "pdfTitulo": "GUIA_PARA_ELABORACION_DE_PLAN_DE_TESIS-FCFA.pdf",
+      "tamano": "1.4 MB"
+    },
+    {
+      "id": "tesis-informe",
+      "titulo": "GUIA DE ELABORACION DE TESIS - FCFA",
+      "siglas": "GET-FCFA",
+      "descripcion": "Define el formato final de redacción, estilo editorial y estructuración científica para la presentación del informe de tesis definitivo con fines de sustentación para la obtención del Título Profesional.",
+      "codigo": "GUIA-IEI-FCFA-02",
+      "publicacion": "2026",
+      "estructura": [
+        {
+          "seccion": "Páginas Preliminares",
+          "contenido": "Carátula institucional, hoja de firmas de dictamen del jurado revisor, dedicatoria, agradecimientos, índices generales, resumen en español y abstract en inglés."
+        },
+        {
+          "seccion": "Capítulo I: Introducción",
+          "contenido": "Presentación sucinta del problema formulado, objetivos de investigación, hipótesis contrastadas, justificación de la investigación y ámbito geográfico."
+        },
+        {
+          "seccion": "Capítulo II: Marco Teórico",
+          "contenido": "Antecedentes directos actualizados, bases teóricas que respaldan los hallazgos y marco conceptual de soporte."
+        },
+        {
+          "seccion": "Capítulo III: Metodología",
+          "contenido": "Metodología real ejecutada, variables de estudio detalladas, diseño experimental, toma de datos de campo, procesamiento y técnicas de análisis estadístico empleadas."
+        },
+        {
+          "seccion": "Capítulo IV: Resultados y Discusión",
+          "contenido": "Presentación sistemática de resultados mediante tablas, diagramas y figuras científicas. Discusión crítica comparativa confrontando los hallazgos con literatura científica nacional e internacional."
+        },
+        {
+          "seccion": "Capítulo V: Conclusiones y Recomendaciones",
+          "contenido": "Conclusiones directas alineadas a los objetivos de investigación y recomendaciones técnicas viables orientadas al manejo forestal, reforestación o mitigación ambiental."
+        }
+      ],
+      "pdfUrl": "https://www.w3.org/WAI/ER/tests/xhtml/testfiles/resources/pdf/dummy.pdf",
+      "pdfTitulo": "GUIA_DE_ELABORACION_DE_TESIS_FCFA.pdf",
+      "tamano": "1.8 MB"
+    }
+  ]
+}

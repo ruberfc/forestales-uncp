@@ -1,0 +1,32 @@
+{
+  "resenaHistorica": "La Unidad de Posgrado de la Facultad de Ciencias Forestales y del Ambiente fue creada el 21 de junio del 2000 con RESOLUCION N° 0004-AU-2000, e inició sus actividades el año 2000 con la Maestría de Gestión Ambiental y Desarrollo Sostenible, siendo la primera en el país, formalmente creada con fecha 24 de abril del 2001 con RESOLUCIÓN N° 0013-AU-2001, para formar investigadores en materia ambiental a fin de enfrentar la problemática ambiental que enfrenta hoy la humanidad relacionados con la contaminación y degradación de los ecosistemas, del acelerado cambio climático, y el agotamiento de recursos que amenazan la continuidad de nuestra especie.",
+  "hitos": [
+    {
+      "anio": "2000",
+      "titulo": "Creación e Inicio",
+      "descripcion": "Creación de la Unidad de Posgrado (21 de junio del 2000, RESOLUCIÓN N° 0004-AU-2000) e inicio de actividades académicas con la Maestría en Gestión Ambiental y Desarrollo Sostenible, pionera en el país."
+    },
+    {
+      "anio": "2001",
+      "titulo": "Oficialización de Maestría",
+      "descripcion": "Formalización de la Maestría en Gestión Ambiental y Desarrollo Sostenible mediante la RESOLUCIÓN N° 0013-AU-2001 (24 de abril de 2001), enfocada en formar investigadores contra la degradación ecosistémica."
+    },
+    {
+      "anio": "2006",
+      "titulo": "Maestría en Cuencas",
+      "descripcion": "Creación de la Maestría en Gestión Sostenible de Cuencas Hidrográficas para liderar la planificación y manejo de los recursos hídricos con rigor científico."
+    },
+    {
+      "anio": "2007",
+      "titulo": "Doctorado Académico",
+      "descripcion": "Creación del Doctorado en Ciencias Ambientales y Desarrollo Sostenible con el objetivo de formar investigadores de alto nivel capaces de generar nuevos conocimientos teóricos y tecnológicos ante la problemática nacional."
+    },
+    {
+      "anio": "2013",
+      "titulo": "Maestría en Ecoturismo",
+      "descripcion": "Creación de la Maestría en Ecoturismo, orientada al desarrollo sostenible de actividades turísticas en armonía con ecosistemas frágiles."
+    }
+  ],
+  "mision": "Formar investigadores y especialistas de posgrado de excelencia con sólidas bases científicas, tecnológicas y humanísticas, capaces de proponer soluciones innovadoras y sostenibles para la preservación ambiental, mitigación del cambio climático y desarrollo del sector forestal.",
+  "vision": "Ser una unidad de posgrado líder y referente a nivel nacional e internacional en investigación ambiental y forestal, reconocida por la excelencia académica de sus egresados y su contribución directa al desarrollo sostenible del país."
+}

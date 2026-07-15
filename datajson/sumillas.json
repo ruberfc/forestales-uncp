@@ -1,0 +1,61 @@
+{
+  "titulo": "Compendio de Sumillas - Ingeniería Forestal y del Ambiente",
+  "descripcion": "El compendio de sumillas de la Facultad de Ciencias Forestales y del Ambiente presenta la síntesis del contenido temático de las asignaturas del Plan de Estudios, detallando la naturaleza del curso, sus competencias y la organización de aprendizajes.",
+  "resolucion": "Aprobado con RESOLUCIÓN N° 102-2025-CF-FCFA-UNCP",
+  "actualizado": "Marzo 2025",
+  "pdfUrl": "https://www.w3.org/WAI/ER/tests/xhtml/testfiles/resources/pdf/dummy.pdf",
+  "grupos": [
+    {
+      "area": "Área de Formación Tecnológica Básica",
+      "cursos": [
+        {
+          "codigo": "011A",
+          "nombre": "Dendrología",
+          "ciclo": "III Ciclo",
+          "creditos": 4,
+          "descripcion": "Asignatura teórica-práctica orientada al conocimiento sistemático, morfológico y organográfico de las especies forestales arbóreas, arbustivas e introducidas en el territorio nacional, capacitando al alumno en la identificación botánica de campo y laboratorio."
+        },
+        {
+          "codigo": "012B",
+          "nombre": "Edafología Forestal",
+          "ciclo": "III Ciclo",
+          "creditos": 3,
+          "descripcion": "Comprende el estudio de las propiedades físicas, químicas y biológicas de los suelos bajo cobertura boscosa, los procesos de humificación, ciclos de nutrientes, y la evaluación de la capacidad de uso mayor de la tierra con fines de conservación forestal."
+        },
+        {
+          "codigo": "013C",
+          "nombre": "Ecología Forestal",
+          "ciclo": "IV Ciclo",
+          "creditos": 4,
+          "descripcion": "Estudio de las interacciones entre los organismos arbóreos y su entorno físico-biológico. Analiza la estructura, dinámica, sucesión biológica y funciones de los ecosistemas boscosos andinos y amazónicos frente a perturbaciones naturales o antropogénicas."
+        }
+      ]
+    },
+    {
+      "area": "Área de Formación Tecnológica Especializada",
+      "cursos": [
+        {
+          "codigo": "021A",
+          "nombre": "Silvicultura General",
+          "ciclo": "VI Ciclo",
+          "creditos": 4,
+          "descripcion": "Asignatura que abarca los fundamentos científicos y técnicos para la reproducción, establecimiento, manejo, cuidado y regeneración de rodales forestales. Trata sobre semillas forestales, viveros, plantaciones y la dinámica silvícola de los bosques nativos."
+        },
+        {
+          "codigo": "022B",
+          "nombre": "Ordenación de Bosques",
+          "ciclo": "VIII Ciclo",
+          "creditos": 4,
+          "descripcion": "Estudio de las teorías de organización del espacio, tiempo y rendimiento de los recursos forestales. Diseña planes de manejo forestal sostenible basados en la tasa de crecimiento anual, turnos de corta y principios de rendimiento sostenido y conservación."
+        },
+        {
+          "codigo": "023C",
+          "nombre": "Tecnología e Industrias de la Madera",
+          "ciclo": "IX Ciclo",
+          "creditos": 4,
+          "descripcion": "Comprende la caracterización anatómica, física, mecánica y química de la madera. Estudia los procesos industriales de transformación mecánica primaria (aserrío, secado, preservación) y secundaria para la generación de valor agregado forestal."
+        }
+      ]
+    }
+  ]
+}

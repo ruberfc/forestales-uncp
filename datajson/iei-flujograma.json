@@ -1,0 +1,77 @@
+{
+  "instituto": {
+    "nombre": "Instituto Especializado de Investigación (IEI) - FCFA",
+    "descripcion": "La Unidad de Investigación Especializada es un órgano de línea de la FCFA, encargado de orientar, coordinar, administrar, planificar evaluar, supervisar y difundir actividades de Investigación Científica, Tecnológica, regional, nacional, basado en la demanda de entorno social, así como la necesidad de soluciones problemáticas. La unidad de investigación especializada está conformada por un \"Consejo Directivo\", un equipo científico de investigadores responsables de las líneas de investigación.",
+    "funciones": [
+      "Promover el desarrollo de la investigación científica e innovación tecnológica en la Facultad.",
+      "Fomentar, planificar, desarrollar y evaluar las actividades de investigación de los docentes, estudiantes y graduados de la Facultad.",
+      "Fomentar la participación de grupos de investigación para acceder a fondos concursables nacionales e internacionales, vinculados a cooperación técnica.",
+      "Organizar y ejecutar eventos científicos, tendientes a estimular la formación de nuevos investigadores o fomentar el perfeccionamiento y/o actualización de los investigadores."
+    ]
+  },
+  "flujograma": {
+    "titulo": "Flujograma del Proceso de Plan de Tesis",
+    "descripcion": "Ruta crítica y administrativa detallada desde la concepción de la idea de investigación hasta la expedición de la Resolución de Aprobación del Plan de Tesis de la Facultad de Ciencias Forestales y del Ambiente.",
+    "pasos": [
+      {
+        "paso": "01",
+        "etapa": "Iniciación y Asesoría",
+        "accion": "Elección del Tema y Asesor",
+        "detalles": "El tesista elige un tema dentro de las líneas de investigación de la FCFA. En coordinación con un docente calificado, define el problema y solicita su designación formal como Asesor de Tesis ante el IEI."
+      },
+      {
+        "paso": "02",
+        "etapa": "Formulación",
+        "accion": "Redacción del Plan de Tesis",
+        "detalles": "El estudiante formula el documento completo (problema, marco teórico, metodología, presupuesto y cronograma) siguiendo estrictamente la Guía Oficial de Plan de Tesis."
+      },
+      {
+        "paso": "03",
+        "etapa": "Trámite de Ingreso",
+        "accion": "Presentación por Mesa de Partes",
+        "detalles": "Ingreso del expediente formal por Mesa de Partes virtual/física, adjuntando el Plan de Tesis, la carta de conformidad del Asesor y la solicitud dirigida al Director del IEI."
+      },
+      {
+        "paso": "04",
+        "etapa": "Designación",
+        "accion": "Nombramiento de Jurado Revisor",
+        "detalles": "El Consejo Directivo del Instituto Especializado de Investigación evalúa la solicitud y designa a tres (03) docentes especialistas para conformar el Jurado Revisor."
+      },
+      {
+        "paso": "05",
+        "etapa": "Evaluación",
+        "accion": "Revisión y Dictamen",
+        "detalles": "El Jurado dispone de un plazo reglamentario para evaluar el rigor metodológico, viabilidad y relevancia del proyecto. Emite observaciones o dictamina la aprobación."
+      },
+      {
+        "paso": "06",
+        "etapa": "Levantamiento",
+        "accion": "Subsanación de Observaciones",
+        "detalles": "De existir observaciones, el tesista dispone de un plazo para levantar las sugerencias metodológicas del jurado con el respaldo del asesor y reingresar la versión corregida."
+      },
+      {
+        "paso": "07",
+        "etapa": "Aprobación Final",
+        "accion": "Resolución Decanal de Aprobación",
+        "detalles": "Con el dictamen favorable unánime de los jurados, el IEI eleva el expediente a Decanato para la emisión de la Resolución de Aprobación del Plan de Tesis, habilitando el inicio de la ejecución."
+      }
+    ]
+  },
+  "pdfUrl": "https://www.w3.org/WAI/ER/tests/xhtml/testfiles/resources/pdf/dummy.pdf",
+  "pdfTitulo": "Flujograma-de-Tramites-Administrativos-para-Plan-de-Tesis-FCFA.pdf",
+  "codigoNormativo": "FLUJO-IEI-FCFA-2026",
+  "galeria": [
+    {
+      "url": "https://images.unsplash.com/photo-1576086213369-97a306d36557?auto=format&fit=crop&q=80&w=800",
+      "caption": "Análisis químico y de suelos en los laboratorios especializados de la FCFA."
+    },
+    {
+      "url": "https://images.unsplash.com/photo-1532187863486-abf9d39d66e8?auto=format&fit=crop&q=80&w=800",
+      "caption": "Identificación anatómica, dendrológica y evaluación de semillas de especies nativas."
+    },
+    {
+      "url": "https://images.unsplash.com/photo-1500382017468-9049fed747ef?auto=format&fit=crop&q=80&w=800",
+      "caption": "Evaluaciones forestales de campo, dasometría e inventarios biológicos."
+    }
+  ]
+}

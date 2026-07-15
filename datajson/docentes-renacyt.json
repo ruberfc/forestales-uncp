@@ -1,0 +1,30 @@
+[
+  {
+    "id": 1,
+    "nombres": "ALVAREZ ORELLANA JULIO CESAR",
+    "codigo": "3376-R-2025",
+    "grupo": ".",
+    "foto": "/src/assets/images/foto_alvarez_orellana_1782251891744.jpg"
+  },
+  {
+    "id": 2,
+    "nombres": "BONILLA MANCILLA HUMBERTO DAX",
+    "codigo": "2323-R-2023",
+    "grupo": ".",
+    "foto": "/src/assets/images/foto_bonilla_mancilla_1782251904541.jpg"
+  },
+  {
+    "id": 3,
+    "nombres": "HUAMAN HUAMAN CIRILO WALTER",
+    "codigo": ".",
+    "grupo": ".",
+    "foto": "/src/assets/images/foto_huaman_huaman_1782251916078.jpg"
+  },
+  {
+    "id": 4,
+    "nombres": "ORELLANA MENDOZA EDITH PILAR",
+    "codigo": "3537-R-2025",
+    "grupo": ".",
+    "foto": "/src/assets/images/foto_orellana_mendoza_1782251928373.jpg"
+  }
+]

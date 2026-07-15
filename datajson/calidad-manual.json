@@ -1,0 +1,34 @@
+{
+  "titulo": "Manual del Sistema de Gestión de la Calidad",
+  "codigo": "M-SGC-FCFA-01",
+  "version": "V.3.0",
+  "fechaAprobacion": "Mayo 2024",
+  "objeto": "El presente documento tiene el objeto de describir el Sistema de Gestión de la Calidad (SGC) de la Facultad de Ciencias Forestales y del Ambiente (FCFA) de la Universidad Nacional del Centro del Perú (UNCP) a todos nuestros grupos de interés, principalmente: estudiantes, egresados, docentes y personal administrativo, mediante el cual se articulan las directrices estratégicas, procesos misionales, de soporte y de evaluación continua para asegurar la excelencia académica y administrativa.",
+  "pilares": [
+    {
+      "titulo": "Enfoque al Estudiante",
+      "descripcion": "Centramos nuestros esfuerzos en ofrecer una formación integral de alta calidad científica, tecnológica y humanística."
+    },
+    {
+      "titulo": "Mejora Continua",
+      "descripcion": "Evaluamos constantemente el desempeño de nuestros procesos académicos para elevar los estándares institucionales."
+    },
+    {
+      "titulo": "Liderazgo y Compromiso",
+      "descripcion": "Nuestras autoridades y docentes promueven un entorno de trabajo ético, transparente y comprometido con la acreditación."
+    },
+    {
+      "titulo": "Participación de Grupos de Interés",
+      "descripcion": "Integramos de forma activa las demandas y sugerencias de egresados, empleadores y la sociedad civil."
+    }
+  ],
+  "politicaCalidad": "La Facultad de Ciencias Forestales y del Ambiente está comprometida con brindar un servicio educativo de calidad, promoviendo la investigación científica, la sostenibilidad ecológica y la responsabilidad social, cumpliendo rigurosamente los requisitos legales aplicables y los lineamientos del SINEACE.",
+  "objetivosSGC": [
+    "Garantizar la mejora del desempeño académico mediante la capacitación docente continua y el rediseño curricular periódico.",
+    "Promover el desarrollo de investigaciones multidisciplinares aplicadas con impacto positivo en el desarrollo forestal y ambiental regional.",
+    "Optimizar la eficiencia de la gestión administrativa simplificando trámites para la satisfacción de nuestra comunidad estudiantil.",
+    "Consolidar la acreditación nacional e internacional de la facultad manteniendo el cierre de brechas de calidad de forma permanente."
+  ],
+  "pdfUrl": "https://www.w3.org/WAI/ER/tests/xhtml/testfiles/resources/pdf/dummy.pdf",
+  "pdfTitulo": "M-SGC-FCFA-01: Manual de la Calidad - Facultad de Ciencias Forestales y del Ambiente"
+}

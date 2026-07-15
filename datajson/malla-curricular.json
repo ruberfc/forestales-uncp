@@ -1,0 +1,23 @@
+{
+  "titulo": "Malla Curricular - Ingeniería Forestal y del Ambiente",
+  "resolucion": "Aprobado con RESOLUCIÓN N° 035-2025-CF-FCFA-UNCP",
+  "actualizado": "Enero 2025",
+  "pdfUrl": "https://www.w3.org/WAI/ER/tests/xhtml/testfiles/resources/pdf/dummy.pdf",
+  "areas": [
+    {
+      "nombre": "Área de Ciencias Básicas",
+      "color": "sky",
+      "descripcion": "Fundamentos en matemática, física, química y biología que sostienen el entendimiento analítico de los procesos naturales."
+    },
+    {
+      "nombre": "Área de Silvicultura y Ecología",
+      "color": "emerald",
+      "descripcion": "Ciencia del establecimiento, desarrollo y cuidado de los bosques nativos y plantaciones forestales, y su dinámica ecológica."
+    },
+    {
+      "nombre": "Área de Tecnología e Industrias",
+      "color": "amber",
+      "descripcion": "Aprovechamiento sostenible, caracterización de la madera y procesos industriales para agregar valor a los recursos forestales."
+    }
+  ]
+}
